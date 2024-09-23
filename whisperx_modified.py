@@ -48,7 +48,7 @@ if __name__ == '__main__':
     # # 设置你希望使用的进程数（通常设置为CPU核心数）
     # num_workers = 6  # 自动获取CPU核数
     # # 并行处理文件
-    # use_auth_token = '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'
+    # use_auth_token = 'HuggingFace Token'
     # model_name = "pyannote/speaker-diarization-3.1"
     # results = process_files_in_parallel(filelist, num_workers, use_auth_token, model_name)
     # logger.info(f'end time{time.time() - start}')
@@ -57,7 +57,7 @@ if __name__ == '__main__':
     # #
 
     # 初始化分割管道
-    pipeline = SpeakerDiarizationPipeline(num_workers=4, use_auth_token='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',
+    pipeline = SpeakerDiarizationPipeline(num_workers=4, use_auth_token='HuggingFace Token',
                                           device="cpu")
 
     # 并行处理 temp_audios 目录下的音频文件

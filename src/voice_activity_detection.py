@@ -34,7 +34,7 @@ def voice_segments_to_dataframe(vad):
 
     # start = time.time()
     # logger.info('Start voice activity detection')
-    # res = vad_inference('../6MinuteEnglish.wav', user_token='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')
+    # res = vad_inference('../6MinuteEnglish.wav', user_token='HuggingFace Token')
     # logger.info(f'End voice activity detection:{time.time() - start}')
     # res.to_csv('../vad.csv')
     # print(res)
@@ -178,11 +178,11 @@ if __name__ == '__main__':
     ]
     # res = split_segments(segments)
     # print(res)
-    # res = vad_inference("../data/roundtable.wav", user_token='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')
+    # res = vad_inference("../data/roundtable.wav", user_token='HuggingFace Token')
     # merged_df = merge_intervals(res)
     # s = vad_cut(merged_df, 400)
     # print(s)
-    # res = vad_inference("../6Minute_short.wav", user_token='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')
+    # res = vad_inference("../6Minute_short.wav", user_token='HuggingFace Token')
     # print(res)
 
     segments = [[0, 2],[2, 3], [4, 6]]

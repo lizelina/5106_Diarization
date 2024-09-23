@@ -15,7 +15,7 @@ from scipy.spatial.distance import cdist
 # embedding_model = PretrainedSpeakerEmbedding(
 #     "pyannote/embedding",
 #     device=torch.device("cpu"),
-# use_auth_token='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')
+# use_auth_token='HuggingFace Token')
 
 embedding_model = PretrainedSpeakerEmbedding(
     "speechbrain/spkrec-ecapa-voxceleb",

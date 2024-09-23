@@ -12,7 +12,7 @@ if __name__ == '__main__':
 
     # 2. Split audio to 6 minute chunks
     name = convert_to_wav("data/roundtable.wav")
-    segments = vad_cut(name,  user_token='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', length = 400)
+    segments = vad_cut(name,  user_token='HuggingFace Token', length = 400)
     # Obtain VAD cutting points
     res = segments_cutting_times(segments)
 
@@ -46,7 +46,7 @@ if __name__ == '__main__':
     # 设置你希望使用的进程数（通常设置为CPU核心数）
     num_workers = 6  # 自动获取CPU核数
     # 并行处理文件
-    use_auth_token = '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'
+    use_auth_token = 'HuggingFace Token'
     model_name = "pyannote/speaker-diarization-3.1"
     results = process_files_in_parallel(file_paths, num_workers, use_auth_token, model_name)
     logger.info(f'end diarization time{time.time() - start}')

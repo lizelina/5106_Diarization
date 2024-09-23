@@ -104,7 +104,7 @@ def process_files_in_parallel(file_paths: List[str], num_workers: int, use_auth_
 
 
 if __name__ == '__main__':
-    diarize_model = DiarizationPipeline(use_auth_token='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', device="cpu")
+    diarize_model = DiarizationPipeline(use_auth_token='HuggingFace Token', device="cpu")
     start = time.time()
     logger.info(f'start diarization')
 
@@ -118,7 +118,7 @@ if __name__ == '__main__':
 
 
     # 并行处理文件
-    use_auth_token = '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'
+    use_auth_token = 'HuggingFace Token'
     model_name = "pyannote/speaker-diarization-3.1"
 
     results = process_files_in_parallel(file_paths, num_workers, use_auth_token, model_name)

@@ -37,7 +37,7 @@ print("end alignment", time.time() - start)
 # 3. Assign speaker labels
 start3 = time.time()
 logger.info(f'start diarization')
-diarize_model = whisperx.DiarizationPipeline(use_auth_token='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', device=device)
+diarize_model = whisperx.DiarizationPipeline(use_auth_token='HuggingFace Token', device=device)
 
 # add min/max number of speakers if known
 # diarize_model(audio, min_speakers=min_speakers, max_speakers=max_speakers)
