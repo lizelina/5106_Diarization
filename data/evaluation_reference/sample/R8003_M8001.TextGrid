@@ -1,0 +1,2728 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 2067.7090000000003
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "N_SPK8001"
+		xmin = 0
+		xmax = 2067.7090000000003
+		intervals: size = 97
+		intervals [1]:
+			xmin = 96.75
+			xmax = 110.28
+			text = "这个孩子呀嗯小孩儿，分咱们这孩子大小那个太小的小孩儿就没必要送了，太小的你你上一二年级，他还不懂得那么多是吧，四五年级。"
+		intervals [2]:
+			xmin = 119.52
+			xmax = 125.89
+			text = "一二年级小孩儿他可以你叫给老给老师，那个画个那个画个画个画。"
+		intervals [3]:
+			xmin = 127.59
+			xmax = 141.68
+			text = "给老师送过去，这是表示对老师的尊重是吧，嗯到你到大年级的学生呢肯定要给老师，因为嗯他要学习知识多了嘛，要老老师这一年也挺辛苦的了。"
+		intervals [4]:
+			xmin = 188.81
+			xmax = 199.63
+			text = "这个四五年级的孩子呀他也知道大一点儿了，他也知道天天跟老师一块儿，他也一般的知道老师喜好什么，有什么爱好，啊有什么那个。"
+		intervals [5]:
+			xmin = 204.43
+			xmax = 209.1
+			text = "对，咱们也得征求孩子的意见老师家长必须要征求孩子意见。"
+		intervals [6]:
+			xmin = 210.81
+			xmax = 211.18
+			text = "嗯。"
+		intervals [7]:
+			xmin = 230.3
+			xmax = 230.54
+			text = "对。"
+		intervals [8]:
+			xmin = 238.18
+			xmax = 251.11
+			text = "这老师呢他一天呢坐这儿那个站这儿，站一天也挺累的，嗯孩子们他给做咱们家长做建议，让孩子去还得让孩子去决定给老师买点儿这个。"
+		intervals [9]:
+			xmin = 254.31
+			xmax = 254.72
+			text = "啊。"
+		intervals [10]:
+			xmin = 273.0
+			xmax = 278.42
+			text = "对，让他哎给老师嗯给老师送过去，老师也乐意收。"
+		intervals [11]:
+			xmin = 285.06
+			xmax = 285.84
+			text = "那不可能。"
+		intervals [12]:
+			xmin = 332.14
+			xmax = 339.93
+			text = "我认为啊这个事儿啊，送老师这个奖品那个给老师礼物这个事儿啊，呃节前节后。"
+		intervals [13]:
+			xmin = 341.6
+			xmax = 343.44
+			text = "都不大太受影响。"
+		intervals [14]:
+			xmin = 364.48
+			xmax = 365.01
+			text = "这个。"
+		intervals [15]:
+			xmin = 366.63
+			xmax = 375.69
+			text = "孩子们呀给老师送小送个手工自己画个画什么的，送个手工当天教师节当天给老师画个花儿，呃肯定老师要。"
+		intervals [16]:
+			xmin = 453.61
+			xmax = 466.27
+			text = "但是我认为他要送东西送老师东西，那孩子们不可同学们不可能到学校说去，我送老师什么啦他送老师什么啦，就是嗯教师节当天您送老师个贺卡。"
+		intervals [17]:
+			xmin = 532.5
+			xmax = 535.29
+			text = "我认为啊，这个老作为老师来讲啊。"
+		intervals [18]:
+			xmin = 536.34
+			xmax = 547.09
+			text = "就给他给不管谁给他什么礼品，他不应该轻视就是说这给他礼品少小，礼物小他轻视这个孩子，因为我觉得在学校不应该有这种情况。"
+		intervals [19]:
+			xmin = 577.33
+			xmax = 583.84
+			text = "我觉得给还是给老师，你跟老师一般的老师都有都有联系方式。"
+		intervals [20]:
+			xmin = 588.05
+			xmax = 588.63
+			text = "不现实。"
+		intervals [21]:
+			xmin = 592.07
+			xmax = 592.3
+			text = "对。"
+		intervals [22]:
+			xmin = 602.42
+			xmax = 602.62
+			text = "对。"
+		intervals [23]:
+			xmin = 606.45
+			xmax = 607.93
+			text = "这不老师他也不敢接受。"
+		intervals [24]:
+			xmin = 616.05
+			xmax = 616.27
+			text = "哎。"
+		intervals [25]:
+			xmin = 674.81
+			xmax = 675.47
+			text = "这肯定。"
+		intervals [26]:
+			xmin = 712.03
+			xmax = 719.42
+			text = "反正我认为还是就是跟老师要要这个联系方式要邮寄，你给他邮寄他家。"
+		intervals [27]:
+			xmin = 736.53
+			xmax = 737.14
+			text = "也不行。"
+		intervals [28]:
+			xmin = 738.8
+			xmax = 739.07
+			text = "嗯。"
+		intervals [29]:
+			xmin = 743.22
+			xmax = 748.43
+			text = "这个反正我觉得应该跟老师得沟通，提前沟通好了这个事儿。"
+		intervals [30]:
+			xmin = 805.82
+			xmax = 818.2
+			text = "一这个问题呀肯定肯定得留名儿，因为那什么呢你给他送这个邮寄，我认为让他还是给他邮寄过去邮寄他家。"
+		intervals [31]:
+			xmin = 818.61
+			xmax = 823.44
+			text = "老师上学呢在上课这一天他不可能老去拿邮件儿。"
+		intervals [32]:
+			xmin = 825.42
+			xmax = 829.26
+			text = "给他送到家邮到家，不管他什么时候他还是。"
+		intervals [33]:
+			xmin = 833.52
+			xmax = 835.03
+			text = "你提前跟老师联系啊。"
+		intervals [34]:
+			xmin = 888.82
+			xmax = 893.54
+			text = "在学校里的呃呃肯定不方便，这些事儿是吧。"
+		intervals [35]:
+			xmin = 894.63
+			xmax = 894.96
+			text = "嗯。"
+		intervals [36]:
+			xmin = 903.67
+			xmax = 912.04
+			text = "因为您上班儿下班儿的或者出行不方便，还要拎着东西直接给您送到家，这不就方便了吗？"
+		intervals [37]:
+			xmin = 914.96
+			xmax = 915.3
+			text = "嗯。"
+		intervals [38]:
+			xmin = 918.85
+			xmax = 933.22
+			text = "也成嗯我觉得我认为也可以，一因为是教师节嘛，头教师节孩子们让孩子们拿些老师我送您一本鲜花儿今天是您节日，这这个满可以的是吧。"
+		intervals [39]:
+			xmin = 937.38
+			xmax = 937.63
+			text = "对。"
+		intervals [40]:
+			xmin = 941.0
+			xmax = 941.33
+			text = "对。"
+		intervals [41]:
+			xmin = 958.08
+			xmax = 965.41
+			text = "对家长这个，家长这个这个这个心意啊那就得跟老师必须联系了，是吧。"
+		intervals [42]:
+			xmin = 966.72
+			xmax = 973.21
+			text = "一帮孩子一般的情况下孩子都也都，咱们都得有家长老师的联系方式。"
+		intervals [43]:
+			xmin = 975.62
+			xmax = 984.07
+			text = "现在都呃这个学校都有微信，这老师跟孩子们都这一般孩子都有个都有微信。"
+		intervals [44]:
+			xmin = 986.03
+			xmax = 986.33
+			text = "嗯。"
+		intervals [45]:
+			xmin = 997.47
+			xmax = 999.33
+			text = "那得必须得跟老师提前联系。"
+		intervals [46]:
+			xmin = 1027.02
+			xmax = 1027.37
+			text = "学校。"
+		intervals [47]:
+			xmin = 1028.86
+			xmax = 1030.68
+			text = "就得要当天，对。"
+		intervals [48]:
+			xmin = 1037.96
+			xmax = 1038.45
+			text = "就能。"
+		intervals [49]:
+			xmin = 1040.68
+			xmax = 1041.28
+			text = "就能送到。"
+		intervals [50]:
+			xmin = 1042.63
+			xmax = 1043.77
+			text = "能送到老师手里。"
+		intervals [51]:
+			xmin = 1048.05
+			xmax = 1048.29
+			text = "对。"
+		intervals [52]:
+			xmin = 1122.94
+			xmax = 1123.07
+			text = "嗯。"
+		intervals [53]:
+			xmin = 1126.01
+			xmax = 1127.37
+			text = "那就得考虑考虑了。"
+		intervals [54]:
+			xmin = 1157.47
+			xmax = 1159.33
+			text = "不不，嗯对。"
+		intervals [55]:
+			xmin = 1185.83
+			xmax = 1198.82
+			text = "主要是咱们咱们送礼送老师礼物是咱们家长和孩子的心意，但是你送到老师手里，你必须保证老师呃接触这个东西别犯错误。"
+		intervals [56]:
+			xmin = 1200.57
+			xmax = 1201.06
+			text = "知道吧。"
+		intervals [57]:
+			xmin = 1208.49
+			xmax = 1223.47
+			text = "你送，假如说你送他一张纸啊让让校长看见了，你也校长不知道你你送的什么什么东西，他也回头也要受到我估计也心里不舒服这个老师，嗯。"
+		intervals [58]:
+			xmin = 1286.31
+			xmax = 1290.2
+			text = "老师一般的跟家长都得有沟通都得有沟通。"
+		intervals [59]:
+			xmin = 1315.51
+			xmax = 1328.38
+			text = "现在都是都是公众都是公众场合儿，你不管你给老师什么东西，你要跟老师接触好多人那都看着呢，人家老师也也是害怕的。"
+		intervals [60]:
+			xmin = 1331.73
+			xmax = 1338.85
+			text = "对因为主要是咱们送东西是是咱们的心意，但是主要人老师这个影响不影响人家。"
+		intervals [61]:
+			xmin = 1339.78
+			xmax = 1340.31
+			text = "是不是。"
+		intervals [62]:
+			xmin = 1342.74
+			xmax = 1344.92
+			text = "工作完丢了可可干了。"
+		intervals [63]:
+			xmin = 1397.42
+			xmax = 1405.12
+			text = "对，送人这是根据自己的自己的收入，自己家庭情况是吧送老师的什么东西。"
+		intervals [64]:
+			xmin = 1407.62
+			xmax = 1410.17
+			text = "对送老师的东西，价值高低的。"
+		intervals [65]:
+			xmin = 1425.96
+			xmax = 1440.05
+			text = "反正主咱们最主要的是呃，没跟你说心情咱们家长的心情在这呢，说老师给跟咱们的对咱们的孩子付出一年了是吧，辛苦一年了咱们要表示表示心意。"
+		intervals [66]:
+			xmin = 1440.84
+			xmax = 1447.25
+			text = "但是主要的还得要为人老师着想，嗯跟老师沟通怎么。"
+		intervals [67]:
+			xmin = 1448.22
+			xmax = 1449.38
+			text = "用用什么方式。"
+		intervals [68]:
+			xmin = 1450.45
+			xmax = 1450.78
+			text = "是吧。"
+		intervals [69]:
+			xmin = 1455.65
+			xmax = 1456.45
+			text = "嗯，这个。"
+		intervals [70]:
+			xmin = 1594.72
+			xmax = 1597.57
+			text = "我认为这个家长啊要想给老师礼物。"
+		intervals [71]:
+			xmin = 1598.88
+			xmax = 1608.6
+			text = "不管他什么时候他给买完了这个东西了，他变相变法儿的反正不管怎么着想方设法也得把那个心意也得给人老师。"
+		intervals [72]:
+			xmin = 1666.58
+			xmax = 1667.5
+			text = "就让孩子能。"
+		intervals [73]:
+			xmin = 1674.48
+			xmax = 1674.73
+			text = "对。"
+		intervals [74]:
+			xmin = 1679.22
+			xmax = 1680.52
+			text = "当然可以有咱们的。"
+		intervals [75]:
+			xmin = 1701.52
+			xmax = 1704.37
+			text = "对，就得跟老师反正提前联系得。"
+		intervals [76]:
+			xmin = 1742.97
+			xmax = 1750.4
+			text = "其实老师这的心理呢，你一打电话你一说跟他要地址他也就知道怎么回事儿了，他心里就有数了。"
+		intervals [77]:
+			xmin = 1751.17
+			xmax = 1751.67
+			text = "是不是。"
+		intervals [78]:
+			xmin = 1754.79
+			xmax = 1755.07
+			text = "对。"
+		intervals [79]:
+			xmin = 1766.77
+			xmax = 1770.32
+			text = "反正现在还是主要还是嗯。"
+		intervals [80]:
+			xmin = 1771.64
+			xmax = 1781.82
+			text = "表跟老师身上表达点儿心意还是呃对他的尊重，他是心理还是比较舒服一点儿我觉得这老师，是吧。"
+		intervals [81]:
+			xmin = 1783.76
+			xmax = 1784.04
+			text = "对。"
+		intervals [82]:
+			xmin = 1784.97
+			xmax = 1785.24
+			text = "对。"
+		intervals [83]:
+			xmin = 1798.09
+			xmax = 1799.18
+			text = "他心里能知道。"
+		intervals [84]:
+			xmin = 1802.2
+			xmax = 1803.13
+			text = "重视他这孩子。"
+		intervals [85]:
+			xmin = 1809.45
+			xmax = 1810.37
+			text = "对对。"
+		intervals [86]:
+			xmin = 1853.27
+			xmax = 1853.85
+			text = "现在。"
+		intervals [87]:
+			xmin = 1855.04
+			xmax = 1856.79
+			text = "现在这个这个。"
+		intervals [88]:
+			xmin = 1857.89
+			xmax = 1870.03
+			text = "这个现在这个环境下呀，这老师啊嗯现在都也注重自己的，你看白天平常一直午都休息，不是都是给孩子上课。"
+		intervals [89]:
+			xmin = 1871.51
+			xmax = 1885.05
+			text = "等到老师休息的时候呢，你可以以老师假如说节教师节这个礼物不收，从平常变相的方式约老师咱们那个，您休息的在老师休息的时候休闲的时候。"
+		intervals [90]:
+			xmin = 1885.4
+			xmax = 1888.91
+			text = "咱们一块儿去旅个游，带着孩子一块儿去玩会儿。"
+		intervals [91]:
+			xmin = 1890.32
+			xmax = 1894.73
+			text = "有的也也有这样的老师，有可以去一块儿玩儿这的。"
+		intervals [92]:
+			xmin = 1907.58
+			xmax = 1912.85
+			text = "那你说他平时呃教师节这天人家不收这礼物。"
+		intervals [93]:
+			xmin = 1948.79
+			xmax = 1949.11
+			text = "嗯。"
+		intervals [94]:
+			xmin = 1965.47
+			xmax = 1966.02
+			text = "他不收。"
+		intervals [95]:
+			xmin = 2062.94
+			xmax = 2063.16
+			text = "好。"
+		intervals [96]:
+			xmin = 2064.95
+			xmax = 2065.11
+			text = "也。"
+		intervals [97]:
+			xmin = 2066.07
+			xmax = 2067.52
+			text = "表示咱们的心意了。"
+	item [2]:
+		class = "IntervalTier"
+		name = "N_SPK8002"
+		xmin = 0
+		xmax = 2067.7090000000003
+		intervals: size = 174
+		intervals [1]:
+			xmin = 47.56
+			xmax = 47.93
+			text = "孩子。"
+		intervals [2]:
+			xmin = 49.05
+			xmax = 49.45
+			text = "孩子。"
+		intervals [3]:
+			xmin = 54.33
+			xmax = 62.1
+			text = "我觉得双，我觉得是双份儿，然后让自个儿的孩子做一个手工或者画个画儿，做一个手工创意这方面的，对。"
+		intervals [4]:
+			xmin = 65.66
+			xmax = 78.84
+			text = "哦，可以，然后还可以像，如果要是家长送，比方说因为老师嘛，然后一天上课要讲很多话，比方说保温杯啊，或者是，提提神补脑的，比方说三只松鼠这种零食。"
+		intervals [5]:
+			xmin = 79.21
+			xmax = 87.75
+			text = "我觉得可能都可以选择，然后还有像小型的按摩的这方面的，不用特别大就很小，就一百一百一一两百块钱。"
+		intervals [6]:
+			xmin = 87.75
+			xmax = 96.28
+			text = "然后像这种礼物呢，我觉得可以由家长来去送，如果孩子有点太，太明显了，如果拿到学校就有点儿太明显了。"
+		intervals [7]:
+			xmin = 108.81
+			xmax = 119.62
+			text = "我觉得像像像，我觉得上一二小级的那种的，那就由由由家长来代去送，做一贺卡这种的就可以，但也不能说我上一二年级，我不送了这。"
+		intervals [8]:
+			xmin = 120.68
+			xmax = 120.82
+			text = "对。"
+		intervals [9]:
+			xmin = 149.62
+			xmax = 152.0
+			text = "比，完善，完善，对，然后呢？"
+		intervals [10]:
+			xmin = 154.53
+			xmax = 154.84
+			text = "那就。"
+		intervals [11]:
+			xmin = 175.74
+			xmax = 188.35
+			text = "我觉得家长也可以就是问问孩子，你打算要要送老师什么，也可以参考一下，就是从孩子，从孩子的眼里出发，我想送老师什么礼物。"
+		intervals [12]:
+			xmin = 192.26
+			xmax = 192.6
+			text = "嗯。"
+		intervals [13]:
+			xmin = 195.98
+			xmax = 196.23
+			text = "对。"
+		intervals [14]:
+			xmin = 197.83
+			xmax = 209.61
+			text = "有什么需求，不能说，不能说家长一味的去做主说我想送什么什么，这种的我觉得也，也要考虑一下孩子，征求，征求一下孩子的意见，嗯。"
+		intervals [15]:
+			xmin = 220.8
+			xmax = 221.43
+			text = "眼部仪。"
+		intervals [16]:
+			xmin = 223.29
+			xmax = 224.73
+			text = "啊，护眼灯，嗯。"
+		intervals [17]:
+			xmin = 230.34
+			xmax = 230.67
+			text = "嗯。"
+		intervals [18]:
+			xmin = 237.96
+			xmax = 238.34
+			text = "嗯。"
+		intervals [19]:
+			xmin = 273.56
+			xmax = 273.92
+			text = "嗯。"
+		intervals [20]:
+			xmin = 279.3
+			xmax = 279.8
+			text = "然后，现。"
+		intervals [21]:
+			xmin = 285.17
+			xmax = 286.14
+			text = "不见得，不见。"
+		intervals [22]:
+			xmin = 286.87
+			xmax = 287.13
+			text = "不。"
+		intervals [23]:
+			xmin = 294.04
+			xmax = 294.42
+			text = "嗯。"
+		intervals [24]:
+			xmin = 309.42
+			xmax = 317.85
+			text = "还有一个，就是一个时间点，我是，呃，什什么时候送，比方说比方说孩子画的贺卡，唉，我九月呃，九月十号教师节。"
+		intervals [25]:
+			xmin = 317.85
+			xmax = 330.32
+			text = "我可以九月十号，我当天送那咱买的这些礼物是，是是当天呢，还是提前一提前几天，因为现在也关系，因因为教师节，它关系的还有一个物流的时间。"
+		intervals [26]:
+			xmin = 353.72
+			xmax = 354.45
+			text = "那个气氛。"
+		intervals [27]:
+			xmin = 359.85
+			xmax = 361.64
+			text = "三十来个吧，送。"
+		intervals [28]:
+			xmin = 363.98
+			xmax = 364.3
+			text = "如果。"
+		intervals [29]:
+			xmin = 366.1
+			xmax = 366.95
+			text = "那，那也。"
+		intervals [30]:
+			xmin = 387.75
+			xmax = 387.94
+			text = "那。"
+		intervals [31]:
+			xmin = 404.03
+			xmax = 411.64
+			text = "我觉得像，我觉得像你刚才说的这个，我觉得可能在家长群，我觉得他们可能会，会考虑到这方面吧。"
+		intervals [32]:
+			xmin = 419.98
+			xmax = 420.4
+			text = "很高。"
+		intervals [33]:
+			xmin = 421.78
+			xmax = 424.83
+			text = "不如就是，不如就是，呃，就是。"
+		intervals [34]:
+			xmin = 434.94
+			xmax = 441.1
+			text = "我觉得这，我觉得这个同，我觉得老师，我觉得同学之间可能也会有比较。"
+		intervals [35]:
+			xmin = 468.44
+			xmax = 469.21
+			text = "有可能不一样。"
+		intervals [36]:
+			xmin = 479.62
+			xmax = 481.99
+			text = "就特自豪，特特明显自信的那。"
+		intervals [37]:
+			xmin = 495.69
+			xmax = 496.3
+			text = "去比较。"
+		intervals [38]:
+			xmin = 505.75
+			xmax = 506.02
+			text = "我觉。"
+		intervals [39]:
+			xmin = 519.76
+			xmax = 520.31
+			text = "个性。"
+		intervals [40]:
+			xmin = 553.72
+			xmax = 558.27
+			text = "挂历那会儿，就是送那我也不知道应该叫什么，就是摆的那叫什么玩意儿。"
+		intervals [41]:
+			xmin = 570.47
+			xmax = 571.95
+			text = "传达室收吗？现在。"
+		intervals [42]:
+			xmin = 577.94
+			xmax = 580.59
+			text = "有，如果如果你要是有传传递。"
+		intervals [43]:
+			xmin = 607.72
+			xmax = 611.49
+			text = "嗯，那寄，那寄到，那寄到家庭那。"
+		intervals [44]:
+			xmin = 615.86
+			xmax = 616.94
+			text = "那寄，那。"
+		intervals [45]:
+			xmin = 620.44
+			xmax = 621.53
+			text = "那就寄到家里。"
+		intervals [46]:
+			xmin = 645.41
+			xmax = 660.05
+			text = "我觉得像那种就是不是特别大，就是小型的，我觉得就由和孩子们直接拿到学校交给老师，要说是比较像像护眼灯啊或者比较大一点儿的，那咱就像刚才说的，就以跟跟老师有以。"
+		intervals [47]:
+			xmin = 668.33
+			xmax = 668.53
+			text = "都。"
+		intervals [48]:
+			xmin = 672.99
+			xmax = 673.7
+			text = "也不太好。"
+		intervals [49]:
+			xmin = 700.11
+			xmax = 703.2
+			text = "那就以什么形式送，现在这是一个很关键。"
+		intervals [50]:
+			xmin = 709.77
+			xmax = 711.43
+			text = "那老师，那你。"
+		intervals [51]:
+			xmin = 744.93
+			xmax = 754.46
+			text = "那如果说开家，如果说是如果说要是开家长会，然后由呃，由家长把这个礼物带到会上然后交给老师。"
+		intervals [52]:
+			xmin = 755.06
+			xmax = 756.31
+			text = "是不是也不太。"
+		intervals [53]:
+			xmin = 757.16
+			xmax = 760.76
+			text = "对，也不太也不太，就是错过了这个时节了。"
+		intervals [54]:
+			xmin = 767.73
+			xmax = 768.0
+			text = "呃。"
+		intervals [55]:
+			xmin = 770.78
+			xmax = 772.52
+			text = "老师上课没带手机。"
+		intervals [56]:
+			xmin = 775.85
+			xmax = 778.01
+			text = "那送到办公室，应该问题不大吧。"
+		intervals [57]:
+			xmin = 779.09
+			xmax = 784.4
+			text = "办公室应该有其他老师，然后给代收已，对，已代收。"
+		intervals [58]:
+			xmin = 788.82
+			xmax = 790.42
+			text = "那你不可能，那你不可能。"
+		intervals [59]:
+			xmin = 792.26
+			xmax = 795.16
+			text = "那你不可能所有老师，各科老师都都。"
+		intervals [60]:
+			xmin = 828.57
+			xmax = 833.38
+			text = "那你，那你要送到家，那老师会把就是地址会告诉你吗？"
+		intervals [61]:
+			xmin = 840.44
+			xmax = 841.5
+			text = "又不太现实。"
+		intervals [62]:
+			xmin = 847.61
+			xmax = 847.91
+			text = "对。"
+		intervals [63]:
+			xmin = 872.63
+			xmax = 874.75
+			text = "那就提前跟老师沟通一下。"
+		intervals [64]:
+			xmin = 877.71
+			xmax = 878.02
+			text = "嗯，对。"
+		intervals [65]:
+			xmin = 893.66
+			xmax = 894.41
+			text = "那，嗯。"
+		intervals [66]:
+			xmin = 898.67
+			xmax = 899.03
+			text = "嗯。"
+		intervals [67]:
+			xmin = 900.08
+			xmax = 900.27
+			text = "嗯。"
+		intervals [68]:
+			xmin = 906.31
+			xmax = 911.86
+			text = "对，不管是不管是卡也好，还是礼物也好啊，对，就是一份小小的心意，对。"
+		intervals [69]:
+			xmin = 919.92
+			xmax = 920.78
+			text = "也成，嗯。"
+		intervals [70]:
+			xmin = 921.91
+			xmax = 923.46
+			text = "就是不是特别大的，咱就。"
+		intervals [71]:
+			xmin = 931.51
+			xmax = 932.0
+			text = "嗯。"
+		intervals [72]:
+			xmin = 937.19
+			xmax = 937.51
+			text = "嗯。"
+		intervals [73]:
+			xmin = 957.26
+			xmax = 961.15
+			text = "老师沟通，嗯沟通送到，送到那，送到哪里。"
+		intervals [74]:
+			xmin = 992.9
+			xmax = 994.92
+			text = "电话，电话地址。"
+		intervals [75]:
+			xmin = 996.02
+			xmax = 997.25
+			text = "然后还有什么呀？"
+		intervals [76]:
+			xmin = 1001.27
+			xmax = 1002.0
+			text = "电话地址。"
+		intervals [77]:
+			xmin = 1003.4
+			xmax = 1017.66
+			text = "对，然后呢，那那如果要是，如果说是当呃比方说九月十号是是教师节的话，那我可能要提前一两天，就应该要寄送，因为北京同城一两天就应该能到了。"
+		intervals [78]:
+			xmin = 1022.77
+			xmax = 1022.94
+			text = "对。"
+		intervals [79]:
+			xmin = 1027.23
+			xmax = 1028.81
+			text = "学校，咱在这当天。"
+		intervals [80]:
+			xmin = 1030.08
+			xmax = 1030.94
+			text = "当天，对。"
+		intervals [81]:
+			xmin = 1042.59
+			xmax = 1046.25
+			text = "就拖后一两，拖后一两天，就都拖后一两天都可以。"
+		intervals [82]:
+			xmin = 1047.32
+			xmax = 1047.79
+			text = "呃，不。"
+		intervals [83]:
+			xmin = 1048.54
+			xmax = 1049.17
+			text = "伸缩性。"
+		intervals [84]:
+			xmin = 1050.21
+			xmax = 1050.68
+			text = "嗯。"
+		intervals [85]:
+			xmin = 1059.86
+			xmax = 1061.57
+			text = "当天，或者带到学校。"
+		intervals [86]:
+			xmin = 1094.15
+			xmax = 1094.53
+			text = "他。"
+		intervals [87]:
+			xmin = 1111.02
+			xmax = 1111.37
+			text = "我觉。"
+		intervals [88]:
+			xmin = 1121.65
+			xmax = 1133.32
+			text = "就以，就让他以什么方式能接受了这个，这份儿礼物，就让他不是特别的接，对，然后。不舒服，心里就感觉不舒服的那感觉。"
+		intervals [89]:
+			xmin = 1139.73
+			xmax = 1140.13
+			text = "嗯。"
+		intervals [90]:
+			xmin = 1142.8
+			xmax = 1146.14
+			text = "嗯就是就说咱，比方说比方。"
+		intervals [91]:
+			xmin = 1149.65
+			xmax = 1159.53
+			text = "那那你全班有三十多个人，这不可能说我三十多个家长就像咱说的，我我每个人我都买一份礼物，这不好又不太不不太可能，对。"
+		intervals [92]:
+			xmin = 1165.62
+			xmax = 1166.15
+			text = "嗯。"
+		intervals [93]:
+			xmin = 1167.7
+			xmax = 1168.71
+			text = "由孩子带过去。"
+		intervals [94]:
+			xmin = 1175.85
+			xmax = 1176.43
+			text = "嗯。"
+		intervals [95]:
+			xmin = 1184.83
+			xmax = 1185.45
+			text = "如果说。"
+		intervals [96]:
+			xmin = 1206.68
+			xmax = 1208.6
+			text = "他收，或者他不收之类的。"
+		intervals [97]:
+			xmin = 1223.27
+			xmax = 1223.69
+			text = "嗯。"
+		intervals [98]:
+			xmin = 1224.72
+			xmax = 1228.23
+			text = "既让老师收到礼物，然后又要让老师心里舒服。"
+		intervals [99]:
+			xmin = 1242.36
+			xmax = 1242.75
+			text = "嗯。"
+		intervals [100]:
+			xmin = 1255.05
+			xmax = 1255.36
+			text = "嗯。"
+		intervals [101]:
+			xmin = 1271.57
+			xmax = 1271.88
+			text = "不是。"
+		intervals [102]:
+			xmin = 1275.82
+			xmax = 1279.86
+			text = "我觉得给管老师要地址，一般的性就是。"
+		intervals [103]:
+			xmin = 1280.77
+			xmax = 1282.44
+			text = "几率性还是比较大的。"
+		intervals [104]:
+			xmin = 1285.45
+			xmax = 1287.9
+			text = "对，我觉得几率性还是比较大的，对。"
+		intervals [105]:
+			xmin = 1289.19
+			xmax = 1290.43
+			text = "都是有，对。"
+		intervals [106]:
+			xmin = 1295.31
+			xmax = 1296.03
+			text = "嗯。"
+		intervals [107]:
+			xmin = 1296.99
+			xmax = 1297.2
+			text = "其。"
+		intervals [108]:
+			xmin = 1298.95
+			xmax = 1309.52
+			text = "其实我是更，我其实更喜欢是由当面交给老师这种的，假如说晚上接送孩子，然后跟跟家，跟老师有有，比方说沟通交通学习啊。"
+		intervals [109]:
+			xmin = 1309.86
+			xmax = 1314.84
+			text = "沟通孩子的学习啊，这这一系列的吧，然后把把东西交给老师，当面给。"
+		intervals [110]:
+			xmin = 1317.11
+			xmax = 1317.38
+			text = "对。"
+		intervals [111]:
+			xmin = 1319.61
+			xmax = 1324.37
+			text = "都是公，嗯，对公众，都都是公众场合，对，就。"
+		intervals [112]:
+			xmin = 1326.73
+			xmax = 1327.36
+			text = "嗯。"
+		intervals [113]:
+			xmin = 1335.15
+			xmax = 1335.27
+			text = "其。"
+		intervals [114]:
+			xmin = 1344.11
+			xmax = 1345.02
+			text = "嗯。"
+		intervals [115]:
+			xmin = 1346.23
+			xmax = 1356.39
+			text = "你看今，这个今年这个教师节，我们家就是我我同事的孩子，他就是买了，买了一箱这个三三只松鼠，然后给送过去的。"
+		intervals [116]:
+			xmin = 1358.79
+			xmax = 1359.03
+			text = "对。"
+		intervals [117]:
+			xmin = 1360.94
+			xmax = 1365.2
+			text = "对。对，三只三三只松鼠是直接送，我觉得。"
+		intervals [118]:
+			xmin = 1367.35
+			xmax = 1367.84
+			text = "嗯。"
+		intervals [119]:
+			xmin = 1370.68
+			xmax = 1379.99
+			text = "我觉得，我觉得家长可能，可能就是不会太，就是在这个价格方面，可能不会选择太高。"
+		intervals [120]:
+			xmin = 1381.96
+			xmax = 1384.03
+			text = "对因人，嗯，对。"
+		intervals [121]:
+			xmin = 1387.05
+			xmax = 1387.51
+			text = "嗯。"
+		intervals [122]:
+			xmin = 1396.54
+			xmax = 1396.84
+			text = "嗯。"
+		intervals [123]:
+			xmin = 1404.44
+			xmax = 1409.63
+			text = "根据自个儿家庭的情况，然后来来选择了这个东西，我觉得选择。"
+		intervals [124]:
+			xmin = 1410.73
+			xmax = 1423.9
+			text = "我觉得价值高低，我觉得也可以根据不同的礼物，不同的价格，然后选择不同的形式来去配送吧，不能说我一概的说我我去带到学校，或者说我一概的去以配送的这个形式。"
+		intervals [125]:
+			xmin = 1433.69
+			xmax = 1433.85
+			text = "我。"
+		intervals [126]:
+			xmin = 1467.72
+			xmax = 1468.46
+			text = "嗯嗯。"
+		intervals [127]:
+			xmin = 1480.91
+			xmax = 1481.51
+			text = "闪送。"
+		intervals [128]:
+			xmin = 1484.46
+			xmax = 1484.76
+			text = "嗯。"
+		intervals [129]:
+			xmin = 1492.43
+			xmax = 1492.68
+			text = "没。"
+		intervals [130]:
+			xmin = 1533.66
+			xmax = 1533.87
+			text = "那。"
+		intervals [131]:
+			xmin = 1536.03
+			xmax = 1539.02
+			text = "这份儿心意，这份儿那那像。"
+		intervals [132]:
+			xmin = 1550.73
+			xmax = 1554.63
+			text = "我觉得像这种吧就是，咱们可以就是，嗯。"
+		intervals [133]:
+			xmin = 1555.8
+			xmax = 1558.01
+			text = "选择其他的礼物，比方说。"
+		intervals [134]:
+			xmin = 1559.26
+			xmax = 1561.45
+			text = "巧克力或者保温杯这种的。"
+		intervals [135]:
+			xmin = 1564.38
+			xmax = 1564.64
+			text = "对。"
+		intervals [136]:
+			xmin = 1566.88
+			xmax = 1567.38
+			text = "嗯。"
+		intervals [137]:
+			xmin = 1570.89
+			xmax = 1583.46
+			text = "我可以就是比方说，呃，这一个家庭，除了孩子做一个这个手工以外，然后可以，还可以再选择两到，两两个礼物的，就选择就想说一个是给地址，或者一个是不给地址。"
+		intervals [138]:
+			xmin = 1592.68
+			xmax = 1593.04
+			text = "嗯。"
+		intervals [139]:
+			xmin = 1594.17
+			xmax = 1598.82
+			text = "那就干脆就，就很简单，很简很简单，那就买一束鲜花送过去。"
+		intervals [140]:
+			xmin = 1612.54
+			xmax = 1621.19
+			text = "对，不如果他，如果说他要是一定不接受，就是怎么都不接收，那咱就，就不要强人所难了，不要强人所难了。"
+		intervals [141]:
+			xmin = 1622.13
+			xmax = 1622.51
+			text = "就是。"
+		intervals [142]:
+			xmin = 1625.85
+			xmax = 1626.36
+			text = "对，或。"
+		intervals [143]:
+			xmin = 1633.94
+			xmax = 1634.18
+			text = "嗯。"
+		intervals [144]:
+			xmin = 1637.03
+			xmax = 1637.58
+			text = "ok了。"
+		intervals [145]:
+			xmin = 1640.64
+			xmax = 1642.05
+			text = "如果说他是要说说。"
+		intervals [146]:
+			xmin = 1643.85
+			xmax = 1652.05
+			text = "对呀，如果说那又是像那种可以买个就是巧克力，就就就是就几块儿的那种的带过去，由孩子带过去就ok了。"
+		intervals [147]:
+			xmin = 1664.74
+			xmax = 1670.08
+			text = "比较对，小盆栽啊，或者巧克力的就不，对，小小礼物。"
+		intervals [148]:
+			xmin = 1674.93
+			xmax = 1675.31
+			text = "嗯。"
+		intervals [149]:
+			xmin = 1677.44
+			xmax = 1682.24
+			text = "那就咱该寄的寄就该，啊对，然后前前后两天都可以。"
+		intervals [150]:
+			xmin = 1685.68
+			xmax = 1687.39
+			text = "同城教师节。"
+		intervals [151]:
+			xmin = 1689.07
+			xmax = 1694.78
+			text = "啊，八教师节十号十一号，三十三十三十三十一。"
+		intervals [152]:
+			xmin = 1698.43
+			xmax = 1702.93
+			text = "三十，三十三十一，对，二十八，嗯。"
+		intervals [153]:
+			xmin = 1707.64
+			xmax = 1708.02
+			text = "嗯。"
+		intervals [154]:
+			xmin = 1713.21
+			xmax = 1723.81
+			text = "这对，然后他让他心里不舒服，对，比方说咱本来是一个好心好意让。一个教师节，一个，一个礼貌的一个表达。"
+		intervals [155]:
+			xmin = 1723.81
+			xmax = 1729.1
+			text = "然后如果说说要是强制的话，弄成教师老师不舒服也不好。"
+		intervals [156]:
+			xmin = 1732.42
+			xmax = 1733.71
+			text = "对，尊重老师的意愿。"
+		intervals [157]:
+			xmin = 1738.87
+			xmax = 1739.28
+			text = "嗯。"
+		intervals [158]:
+			xmin = 1797.12
+			xmax = 1801.14
+			text = "看看法或者，对对，有。"
+		intervals [159]:
+			xmin = 1850.34
+			xmax = 1854.6
+			text = "能够体现他这个教师的这个价值，这个职业的价值。"
+		intervals [160]:
+			xmin = 1889.11
+			xmax = 1890.42
+			text = "我觉得这个。其。"
+		intervals [161]:
+			xmin = 1891.57
+			xmax = 1891.86
+			text = "这。"
+		intervals [162]:
+			xmin = 1892.87
+			xmax = 1893.34
+			text = "少。"
+		intervals [163]:
+			xmin = 1897.8
+			xmax = 1901.03
+			text = "感恩，然后对老师的这个职业的尊重。"
+		intervals [164]:
+			xmin = 1905.2
+			xmax = 1907.31
+			text = "我觉得不太，对，意。"
+		intervals [165]:
+			xmin = 1914.54
+			xmax = 1915.53
+			text = "这已经足够了。"
+		intervals [166]:
+			xmin = 1922.96
+			xmax = 1924.27
+			text = "那就都要看看他。"
+		intervals [167]:
+			xmin = 1926.01
+			xmax = 1936.91
+			text = "如如果说除除除，像像周一到周五老师上课，然后周末他有可能到别别的地方去做这个这个叫什么班儿，做这个什么。"
+		intervals [168]:
+			xmin = 1937.33
+			xmax = 1944.39
+			text = "如果说别的老师出来旅游，我觉得这个，这个不太可行，我觉得老师可能，对。"
+		intervals [169]:
+			xmin = 1948.69
+			xmax = 1949.98
+			text = "对，不太不太，就是。"
+		intervals [170]:
+			xmin = 1951.94
+			xmax = 1960.86
+			text = "是就我我们的心，我们的心意，然后表达出去了，然后老师收不收，那就就那就是老师的事情，我们的心意表达出去了我们对。"
+		intervals [171]:
+			xmin = 1963.03
+			xmax = 1963.88
+			text = "然后我们对。"
+		intervals [172]:
+			xmin = 1966.08
+			xmax = 1977.49
+			text = "然后我们表达了对老师的这份职业的尊重，认可，然后就是能就是对自己，对自个儿家的孩子能多多的关注，我觉得这已经就够了。"
+		intervals [173]:
+			xmin = 1999.07
+			xmax = 1999.32
+			text = "嗯。"
+		intervals [174]:
+			xmin = 2038.06
+			xmax = 2039.43
+			text = "带给老师，嗯。"
+	item [3]:
+		class = "IntervalTier"
+		name = "N_SPK8003"
+		xmin = 0
+		xmax = 2067.7090000000003
+		intervals: size = 181
+		intervals [1]:
+			xmin = 24.45
+			xmax = 31.59
+			text = "这不是快到了教师节了吗，那个看看都给孩子就是老师送点什么呀，给他们班主任嗯。"
+		intervals [2]:
+			xmin = 32.73
+			xmax = 35.32
+			text = "那个你们有什么好想法吗？"
+		intervals [3]:
+			xmin = 158.63
+			xmax = 159.02
+			text = "嗯。"
+		intervals [4]:
+			xmin = 215.57
+			xmax = 216.01
+			text = "嗯。"
+		intervals [5]:
+			xmin = 226.0
+			xmax = 226.48
+			text = "嗯。"
+		intervals [6]:
+			xmin = 249.57
+			xmax = 259.81
+			text = "对就让家长还是有一些靠谱的提议，提示是吧，就是几几选一，比如说是刚才讲的有什么颈部按摩仪啊，眼部按摩仪或者是护眼台灯。"
+		intervals [7]:
+			xmin = 260.52
+			xmax = 264.93
+			text = "啊包括一些防止静脉曲张的这种这种小的护具啊之类的。"
+		intervals [8]:
+			xmin = 265.88
+			xmax = 274.07
+			text = "然后到时候让孩子给参考，也让就是说孩子能有一些，就是自己有一些自己的主观呀，或者什么的意识是吧，嗯。"
+		intervals [9]:
+			xmin = 278.33
+			xmax = 278.86
+			text = "嗯。"
+		intervals [10]:
+			xmin = 297.49
+			xmax = 297.86
+			text = "嗯。"
+		intervals [11]:
+			xmin = 307.63
+			xmax = 308.06
+			text = "嗯。"
+		intervals [12]:
+			xmin = 311.01
+			xmax = 311.45
+			text = "嗯。"
+		intervals [13]:
+			xmin = 332.43
+			xmax = 333.49
+			text = "你这个。"
+		intervals [14]:
+			xmin = 360.54
+			xmax = 360.87
+			text = "对呀。"
+		intervals [15]:
+			xmin = 364.01
+			xmax = 367.18
+			text = "对，而且这个老师他不一定收啊，你要是，嗯。"
+		intervals [16]:
+			xmin = 374.49
+			xmax = 374.71
+			text = "嗯。"
+		intervals [17]:
+			xmin = 376.15
+			xmax = 376.46
+			text = "嗯。"
+		intervals [18]:
+			xmin = 383.18
+			xmax = 383.47
+			text = "嗯。"
+		intervals [19]:
+			xmin = 388.07
+			xmax = 394.53
+			text = "哦，来一个，啊来一个团购是吧，然后家长群那个微信里面到时候组团儿。"
+		intervals [20]:
+			xmin = 404.23
+			xmax = 404.82
+			text = "啊。"
+		intervals [21]:
+			xmin = 412.29
+			xmax = 426.14
+			text = "哎呀，不过我觉得你说的这个挺好的，如果说大家各自送各自的，老师就处于这个这个这个这个这个就是说自己的师生，这个形象啊之类的，可能他不会收。"
+		intervals [22]:
+			xmin = 428.26
+			xmax = 428.55
+			text = "嗯。"
+		intervals [23]:
+			xmin = 431.6
+			xmax = 431.98
+			text = "嗯。"
+		intervals [24]:
+			xmin = 438.01
+			xmax = 438.39
+			text = "嗯。"
+		intervals [25]:
+			xmin = 442.16
+			xmax = 442.61
+			text = "嗯。"
+		intervals [26]:
+			xmin = 481.67
+			xmax = 482.09
+			text = "嗯。"
+		intervals [27]:
+			xmin = 508.64
+			xmax = 519.33
+			text = "但其实是这么回事儿吧，你看马上这个过年之后就六年级了，其实小升初这个挺重要的，你要是说全班一块儿去送，其实也突不出不来。"
+		intervals [28]:
+			xmin = 520.12
+			xmax = 531.79
+			text = "这个将来这个这个老师会不会对对自己的孩子，能够额外的就是说能够多多去这个对他严苛一些，能让他能够成绩能更更加的，有一定的这个上升的趋势。"
+		intervals [29]:
+			xmin = 532.78
+			xmax = 533.77
+			text = "是吧，嗯。"
+		intervals [30]:
+			xmin = 548.06
+			xmax = 553.62
+			text = "那像我们过去来讲，他都是送的是挂历什么的，他没有什么像现在这么多可选性啊。"
+		intervals [31]:
+			xmin = 554.5
+			xmax = 554.8
+			text = "是吧。"
+		intervals [32]:
+			xmin = 555.75
+			xmax = 556.06
+			text = "嗯。"
+		intervals [33]:
+			xmin = 560.38
+			xmax = 564.1
+			text = "哎呀，这个这个东西这块儿选择反正。"
+		intervals [34]:
+			xmin = 565.15
+			xmax = 575.63
+			text = "就还是自己买自己的呗，但是咱们这个东西到时候怎么送过去啊，是咱们直接自己带过去，现在一般学校传达室都不给传递这个东西了。"
+		intervals [35]:
+			xmin = 588.19
+			xmax = 588.44
+			text = "嗯。"
+		intervals [36]:
+			xmin = 608.82
+			xmax = 616.59
+			text = "对，这块儿这是一个问题啊，咱们本身准备好了东西，到时候你送完了人家不接，你这个白忙活啊，这这个这个这个事情。"
+		intervals [37]:
+			xmin = 626.28
+			xmax = 626.84
+			text = "嗯。"
+		intervals [38]:
+			xmin = 658.74
+			xmax = 659.05
+			text = "嗯。"
+		intervals [39]:
+			xmin = 674.91
+			xmax = 685.0
+			text = "但是这个怎么说呢，因为去年吧，我送了一箱红酒给我们那个孩子的那个体育老师，就之前他报的那个的足球队，报的晚了根本就没他位置。"
+		intervals [40]:
+			xmin = 685.86
+			xmax = 697.59
+			text = "反正后来这个给了他之后吧，确实是给安排上了，现在也跟着一块儿训练呢，我觉得其实这送送送东西还是还是有点偏差的，不是说你送完了就，嗯。"
+		intervals [41]:
+			xmin = 698.5
+			xmax = 699.98
+			text = "没有什么意义啊之类的。"
+		intervals [42]:
+			xmin = 703.89
+			xmax = 706.38
+			text = "对，这个确实是因为。"
+		intervals [43]:
+			xmin = 707.4
+			xmax = 708.74
+			text = "主主要是怕。"
+		intervals [44]:
+			xmin = 709.75
+			xmax = 713.65
+			text = "因为现在学，这个老师他肯定不会把住址告诉你啊。"
+		intervals [45]:
+			xmin = 722.43
+			xmax = 722.83
+			text = "对。"
+		intervals [46]:
+			xmin = 728.99
+			xmax = 742.12
+			text = "对你说你说买张购物卡吧，那个让孩子带过去，到时候没送着，到时候再给弄丢了，你这你，也都是有可能的，这个东西确实是挺挺难办的一件事儿。"
+		intervals [47]:
+			xmin = 743.75
+			xmax = 744.1
+			text = "嗯。"
+		intervals [48]:
+			xmin = 746.91
+			xmax = 748.25
+			text = "嗯，嗯。"
+		intervals [49]:
+			xmin = 755.27
+			xmax = 759.12
+			text = "问题是咱们不是教师节吗，他近期也不开家长会啊，对不对。"
+		intervals [50]:
+			xmin = 760.45
+			xmax = 766.54
+			text = "嗯，我想了一个，比如说咱们叫个闪送啊，或是那种当日达的顺丰啊。"
+		intervals [51]:
+			xmin = 767.65
+			xmax = 775.25
+			text = "这个送，这个送给老师，到时候又怕，比如说对老师上课的时候他不能接电话，这也是一个问题。"
+		intervals [52]:
+			xmin = 777.98
+			xmax = 779.69
+			text = "是吧，送吗？"
+		intervals [53]:
+			xmin = 782.28
+			xmax = 792.66
+			text = "那你这个东西，你你你你送你送的是班主任，那其他老师没有你，这个这个这个你你要知道是哪个家长送的也是一个问题啊，对吧。"
+		intervals [54]:
+			xmin = 794.33
+			xmax = 794.92
+			text = "是啊。"
+		intervals [55]:
+			xmin = 800.7
+			xmax = 801.87
+			text = "对呀，这个东西。"
+		intervals [56]:
+			xmin = 803.08
+			xmax = 806.4
+			text = "要不要在，要不要礼物上头写上。"
+		intervals [57]:
+			xmin = 833.82
+			xmax = 842.19
+			text = "他不会的，他不会告诉你的呀，你说我要送您个东西啊，您把地址告诉我，我觉得这个不太现实，这个现在都很注重隐私的。"
+		intervals [58]:
+			xmin = 847.72
+			xmax = 848.05
+			text = "嗯。"
+		intervals [59]:
+			xmin = 873.37
+			xmax = 882.05
+			text = "那咱们就是提前看看能不能跟老师那边把地址索要一下，反正也提前跟他交代一下，咱们要送个礼物过去啊。"
+		intervals [60]:
+			xmin = 885.18
+			xmax = 886.01
+			text = "啊，对。"
+		intervals [61]:
+			xmin = 892.15
+			xmax = 892.66
+			text = "对。"
+		intervals [62]:
+			xmin = 894.92
+			xmax = 905.4
+			text = "就提前说一下，咱们可能也不会说送什么特别贵重的东西，但是呢，是一份心意，您一定给我们留个地址，避免就是说，啊直接送到学校里边，嗯。"
+		intervals [63]:
+			xmin = 908.43
+			xmax = 908.85
+			text = "嗯。"
+		intervals [64]:
+			xmin = 912.97
+			xmax = 921.01
+			text = "啊，这个是可以，或者说送一些小的物件呢，比如亲自交他手里头，他直接塞兜儿里头了，是吧，嗯。"
+		intervals [65]:
+			xmin = 924.54
+			xmax = 925.15
+			text = "嗯嗯。"
+		intervals [66]:
+			xmin = 930.53
+			xmax = 931.12
+			text = "嗯嗯嗯。"
+		intervals [67]:
+			xmin = 933.73
+			xmax = 944.72
+			text = "对，就是说咱们，孩子准备一份儿，小自己的一个小小的手工活儿或者说小的鲜花之类的，然后咱们作为家长呢，也准备一份礼物啊。"
+		intervals [68]:
+			xmin = 945.38
+			xmax = 949.32
+			text = "然后是买个类似这个这个，就是。"
+		intervals [69]:
+			xmin = 951.0
+			xmax = 960.78
+			text = "这护眼台灯啊什么什么之类的这个东西，然后呢，跟看看想办法再跟这个这个学，跟老师沟通要个地址，啊对对对。"
+		intervals [70]:
+			xmin = 962.41
+			xmax = 967.99
+			text = "啊对，这个就是既可以，既可以解决这个，嗯嗯。"
+		intervals [71]:
+			xmin = 969.84
+			xmax = 971.76
+			text = "老师现场收礼这种。"
+		intervals [72]:
+			xmin = 973.57
+			xmax = 977.96
+			text = "对，尴尬的方式吧，然后再一个就是还可以送出去，嗯。"
+		intervals [73]:
+			xmin = 983.46
+			xmax = 992.15
+			text = "对呀，现在只有微信跟办公室电话，其他信息全都没有，你这个要了地址了，你就还得把这个这个这个电话也得要过去。"
+		intervals [74]:
+			xmin = 998.77
+			xmax = 1006.57
+			text = "你肯定要有电话地址啊，最好其实是能够是他老师的家属，把她的这个电话跟地址要过来，嗯。"
+		intervals [75]:
+			xmin = 1011.04
+			xmax = 1011.38
+			text = "嗯。"
+		intervals [76]:
+			xmin = 1015.58
+			xmax = 1015.8
+			text = "对。"
+		intervals [77]:
+			xmin = 1017.04
+			xmax = 1022.85
+			text = "对，如果说呀，咱们寄到家里头，那么咱们提前点儿错后点儿地都无所谓。"
+		intervals [78]:
+			xmin = 1023.73
+			xmax = 1026.64
+			text = "那么如果说呢，咱们带到这个。"
+		intervals [79]:
+			xmin = 1027.85
+			xmax = 1035.42
+			text = "学校去，那你肯定只能当天去，嗯，现在呢，也就是说咱们的难点呢就是提前跟这个老师呢。"
+		intervals [80]:
+			xmin = 1037.85
+			xmax = 1045.48
+			text = "如果说地址能够顺利的要下来了，那么这个时间啊，啊包括什么的这些难题，一切都可以解决。"
+		intervals [81]:
+			xmin = 1046.75
+			xmax = 1047.19
+			text = "对。"
+		intervals [82]:
+			xmin = 1104.28
+			xmax = 1104.54
+			text = "对。"
+		intervals [83]:
+			xmin = 1105.63
+			xmax = 1105.89
+			text = "对。"
+		intervals [84]:
+			xmin = 1119.8
+			xmax = 1124.04
+			text = "避免尴尬，啊避免尴尬，然后呢实用性还有一定的。"
+		intervals [85]:
+			xmin = 1133.31
+			xmax = 1133.58
+			text = "嗯。"
+		intervals [86]:
+			xmin = 1139.08
+			xmax = 1139.35
+			text = "嗯。"
+		intervals [87]:
+			xmin = 1142.91
+			xmax = 1145.98
+			text = "啊对，对，肯定会想不到的，嗯。"
+		intervals [88]:
+			xmin = 1149.38
+			xmax = 1149.64
+			text = "对。"
+		intervals [89]:
+			xmin = 1159.13
+			xmax = 1169.4
+			text = "哎要照这么说的话，我觉得就是，就是去什么沃尔玛物美啊办张购物卡，然后呢教师节那天，啊抽个时间啊。"
+		intervals [90]:
+			xmin = 1170.2
+			xmax = 1182.89
+			text = "我过去直接塞给老师，啊这样的话呢，这个也是一份心意，也避也避免了你送了一些人家老师用不着的东西，到时候占用人家时间再去处理啊，或者怎么样。"
+		intervals [91]:
+			xmin = 1184.71
+			xmax = 1186.8
+			text = "是吧，这个是不是我觉得可能。"
+		intervals [92]:
+			xmin = 1188.98
+			xmax = 1189.32
+			text = "嗯。"
+		intervals [93]:
+			xmin = 1191.73
+			xmax = 1192.11
+			text = "对。"
+		intervals [94]:
+			xmin = 1197.74
+			xmax = 1200.44
+			text = "对他你不能，对你不能让人家或都是。"
+		intervals [95]:
+			xmin = 1202.14
+			xmax = 1206.85
+			text = "让老师或者说这个学校这个，让让人觉得他不太好是吧。"
+		intervals [96]:
+			xmin = 1207.71
+			xmax = 1208.9
+			text = "咱们，对。"
+		intervals [97]:
+			xmin = 1209.9
+			xmax = 1210.47
+			text = "对对对。"
+		intervals [98]:
+			xmin = 1222.1
+			xmax = 1224.75
+			text = "对是吧，反正我觉得。"
+		intervals [99]:
+			xmin = 1225.82
+			xmax = 1226.32
+			text = "嗯。"
+		intervals [100]:
+			xmin = 1234.79
+			xmax = 1235.06
+			text = "对。"
+		intervals [101]:
+			xmin = 1271.33
+			xmax = 1271.59
+			text = "对。"
+		intervals [102]:
+			xmin = 1276.64
+			xmax = 1277.14
+			text = "但是。"
+		intervals [103]:
+			xmin = 1284.3
+			xmax = 1285.52
+			text = "就是能提供的是吗。"
+		intervals [104]:
+			xmin = 1286.57
+			xmax = 1286.97
+			text = "啊。"
+		intervals [105]:
+			xmin = 1290.19
+			xmax = 1299.76
+			text = "对，但是这个如果说换做是我，反正我肯定不提供，你这涉及隐私了，你说孩子，你你你这个孩子的家长，到时候你把我的这个地址你公布给别人了怎么办。"
+		intervals [106]:
+			xmin = 1315.49
+			xmax = 1316.02
+			text = "都免费。"
+		intervals [107]:
+			xmin = 1320.3
+			xmax = 1321.34
+			text = "确实是，嗯。"
+		intervals [108]:
+			xmin = 1331.79
+			xmax = 1333.02
+			text = "对，对对对。"
+		intervals [109]:
+			xmin = 1346.41
+			xmax = 1346.88
+			text = "对。"
+		intervals [110]:
+			xmin = 1357.79
+			xmax = 1371.12
+			text = "其实这种的，要是说能够明目明面儿上看的这个东西价值不是很高而且又很实用的东西，其实其实直接送过去也倒没什么，就怕说这个东西可能略显贵重啊，或者说让人觉得可能。"
+		intervals [111]:
+			xmin = 1372.08
+			xmax = 1372.43
+			text = "嗯。"
+		intervals [112]:
+			xmin = 1380.05
+			xmax = 1393.3
+			text = "啊对，我觉得这个东西因人而异吧，这个家里什么条件，你得于这个送礼的标准是不同的，不可能说家里头特别富裕的，还能送的跟那个比较贫寒人的这个这个。"
+		intervals [113]:
+			xmin = 1393.98
+			xmax = 1397.9
+			text = "是一样的，这这肯定是有差别的，是吧，嗯。"
+		intervals [114]:
+			xmin = 1400.12
+			xmax = 1400.5
+			text = "嗯。"
+		intervals [115]:
+			xmin = 1408.0
+			xmax = 1409.14
+			text = "嗯嗯嗯嗯。"
+		intervals [116]:
+			xmin = 1425.85
+			xmax = 1427.05
+			text = "对，就是说，嗯。"
+		intervals [117]:
+			xmin = 1453.25
+			xmax = 1459.67
+			text = "这个确实是一个问题哈，那也就是说，咱们实际上已经确定下来了。"
+		intervals [118]:
+			xmin = 1460.83
+			xmax = 1472.85
+			text = "嗯，第一步呢，先跟老师把地址，看看能不能索要过来，那么这个前提条件就会出现有两个分支，那么一个是呢老师把地址提供给咱们了。"
+		intervals [119]:
+			xmin = 1474.05
+			xmax = 1479.45
+			text = "啊，一个是没有提供，如果说没有提供的话，那么咱们就选。"
+		intervals [120]:
+			xmin = 1481.08
+			xmax = 1485.35
+			text = "呃这种比如说购物卡呀或者什么的这种小东西。"
+		intervals [121]:
+			xmin = 1487.16
+			xmax = 1488.25
+			text = "去去整啊。"
+		intervals [122]:
+			xmin = 1490.89
+			xmax = 1491.27
+			text = "嗯。"
+		intervals [123]:
+			xmin = 1494.16
+			xmax = 1494.62
+			text = "对。"
+		intervals [124]:
+			xmin = 1504.3
+			xmax = 1504.64
+			text = "对。"
+		intervals [125]:
+			xmin = 1510.76
+			xmax = 1511.08
+			text = "对。"
+		intervals [126]:
+			xmin = 1519.89
+			xmax = 1520.55
+			text = "就不送了。"
+		intervals [127]:
+			xmin = 1522.75
+			xmax = 1523.37
+			text = "啊。"
+		intervals [128]:
+			xmin = 1534.27
+			xmax = 1539.38
+			text = "那我觉得这个是一份心意吧，我觉得你真是，不管哪种哪种情况。"
+		intervals [129]:
+			xmin = 1565.05
+			xmax = 1566.08
+			text = "那也就是。"
+		intervals [130]:
+			xmin = 1567.66
+			xmax = 1568.0
+			text = "嗯，嗯。"
+		intervals [131]:
+			xmin = 1571.92
+			xmax = 1572.22
+			text = "嗯。"
+		intervals [132]:
+			xmin = 1590.9
+			xmax = 1591.26
+			text = "嗯。"
+		intervals [133]:
+			xmin = 1612.78
+			xmax = 1614.17
+			text = "就可以了，是吧嗯。"
+		intervals [134]:
+			xmin = 1634.27
+			xmax = 1634.62
+			text = "嗯。"
+		intervals [135]:
+			xmin = 1638.26
+			xmax = 1644.45
+			text = "对，这个其实如果能提供地址址的话，这个事情就迎刃而解了，是吧嗯。"
+		intervals [136]:
+			xmin = 1652.32
+			xmax = 1654.41
+			text = "那也就是说，比如说这个。"
+		intervals [137]:
+			xmin = 1655.35
+			xmax = 1665.47
+			text = "教师表现明确是不收不需要啊之类的，那这种情况的话，就让这个孩子带个小的比较，比较简单的礼物啊。"
+		intervals [138]:
+			xmin = 1666.22
+			xmax = 1674.92
+			text = "这个非常大方，就即便就是老师老师收取了，那也不会让别人觉得，这个有什么不一样的异样看法呀之类的，啊。"
+		intervals [139]:
+			xmin = 1675.38
+			xmax = 1685.29
+			text = "如果说呢他要提供地址呢，那咱们就可以把咱们，把咱们就是说，对，想好了的到底送啊什么东西。"
+		intervals [140]:
+			xmin = 1686.0
+			xmax = 1688.72
+			text = "嗯，根据这个这个这个。"
+		intervals [141]:
+			xmin = 1690.55
+			xmax = 1694.33
+			text = "根据这个情况，是送个护颈仪啊或者送个什么之类的。"
+		intervals [142]:
+			xmin = 1695.92
+			xmax = 1701.03
+			text = "这个是比较暖心的一一些一些的这个，而且老师能用得上的东西。"
+		intervals [143]:
+			xmin = 1702.12
+			xmax = 1702.44
+			text = "嗯。"
+		intervals [144]:
+			xmin = 1705.12
+			xmax = 1714.3
+			text = "对，也就是这么一个一个情况，那么也就是说他不提供地址，其实给他强制的去给他塞购物卡什么也不合适，是吧，是吧，嗯。"
+		intervals [145]:
+			xmin = 1715.56
+			xmax = 1716.21
+			text = "嗯。"
+		intervals [146]:
+			xmin = 1731.06
+			xmax = 1731.33
+			text = "对。"
+		intervals [147]:
+			xmin = 1753.02
+			xmax = 1755.48
+			text = "就看提供不提供的事儿了，是吧，嗯。"
+		intervals [148]:
+			xmin = 1782.33
+			xmax = 1782.63
+			text = "对。"
+		intervals [149]:
+			xmin = 1784.87
+			xmax = 1794.0
+			text = "对，我觉得不管这个礼物咱们最终成功送没送出去，我觉得咱们有这个事儿呢，最起码在学，在这个老师这边，班主任这边啊。"
+		intervals [150]:
+			xmin = 1795.79
+			xmax = 1796.74
+			text = "对这个孩子的。"
+		intervals [151]:
+			xmin = 1797.78
+			xmax = 1809.3
+			text = "对，最起码他能够知道他的家长是重视他这个，在学校里的那个哎呀，表现啊成绩啊，这这方面，而并且呢，也是对这个老师的认可的。"
+		intervals [152]:
+			xmin = 1810.11
+			xmax = 1816.78
+			text = "啊，如果说你对这个学校，对老师不认可的，那不可能说张罗的去干这一件事儿，是吧。"
+		intervals [153]:
+			xmin = 1817.48
+			xmax = 1831.67
+			text = "啊，我觉得这个确实是是是一个事情，再一个呢就是，这个每年也就是这么一个教师节，其实老师，对于老师的节日来讲，并没有什么太多的，假期的可能去上。"
+		intervals [154]:
+			xmin = 1833.34
+			xmax = 1833.89
+			text = "去备课。"
+		intervals [155]:
+			xmin = 1834.84
+			xmax = 1835.87
+			text = "可能也就是这么一。"
+		intervals [156]:
+			xmin = 1837.71
+			xmax = 1840.49
+			text = "给人家就是教师，还是还是。"
+		intervals [157]:
+			xmin = 1841.46
+			xmax = 1841.81
+			text = "能给他。"
+		intervals [158]:
+			xmin = 1843.97
+			xmax = 1844.45
+			text = "惊喜啊。"
+		intervals [159]:
+			xmin = 1846.23
+			xmax = 1847.1
+			text = "我那个。"
+		intervals [160]:
+			xmin = 1848.76
+			xmax = 1852.11
+			text = "能够更高兴更快乐，是吧，嗯。"
+		intervals [161]:
+			xmin = 1853.32
+			xmax = 1853.79
+			text = "嗯。"
+		intervals [162]:
+			xmin = 1914.68
+			xmax = 1915.48
+			text = "对，嗯。"
+		intervals [163]:
+			xmin = 1920.82
+			xmax = 1921.86
+			text = "对，这个。"
+		intervals [164]:
+			xmin = 1925.4
+			xmax = 1925.61
+			text = "对。"
+		intervals [165]:
+			xmin = 1937.54
+			xmax = 1937.84
+			text = "对呀。"
+		intervals [166]:
+			xmin = 1942.94
+			xmax = 1949.61
+			text = "对，其实挺难的，他们有的还在那个闲余时间，还做个直播就授授课呢，这都是有的，啊。"
+		intervals [167]:
+			xmin = 1950.64
+			xmax = 1951.4
+			text = "所以说。"
+		intervals [168]:
+			xmin = 1959.99
+			xmax = 1960.38
+			text = "嗯。"
+		intervals [169]:
+			xmin = 1966.24
+			xmax = 1966.51
+			text = "对。"
+		intervals [170]:
+			xmin = 1978.68
+			xmax = 1991.55
+			text = "行，反正咱们呀就是教师节这个礼物送是肯定的，这个这个事情要做的，然后呢，呃还是咱们整体的这个总结一下啊，就是。"
+		intervals [171]:
+			xmin = 1993.25
+			xmax = 1998.83
+			text = "刚才就是咱们首先要做的，就是收集老师，这个给咱们提供不提供地址。"
+		intervals [172]:
+			xmin = 2000.08
+			xmax = 2008.59
+			text = "呃那么如果说提供了，那么皆大欢喜，咱们可以把自己想要送的礼物直接呢，邮寄到他的这个住处就可以了。"
+		intervals [173]:
+			xmin = 2009.59
+			xmax = 2011.05
+			text = "那如果说没有。"
+		intervals [174]:
+			xmin = 2012.06
+			xmax = 2014.61
+			text = "就是没有提供地址，或者说这个。"
+		intervals [175]:
+			xmin = 2015.78
+			xmax = 2019.24
+			text = "不去接收的话，那么这种情况的话呢，咱们就是。"
+		intervals [176]:
+			xmin = 2020.65
+			xmax = 2029.77
+			text = "呃，现场去拜访，看看呢能不能以这个其他的形式塞给老师，如果说这个如果还不可取的话。"
+		intervals [177]:
+			xmin = 2030.46
+			xmax = 2041.92
+			text = "那么呢，买一些类似巧克力啊，那种德芙啊，什么进口巧克力，然后小盒儿装的，然后呢，让孩子呢，嗯直接带给老师，啊是花儿啊或者是巧克力，我觉得都可以。"
+		intervals [178]:
+			xmin = 2042.43
+			xmax = 2052.39
+			text = "我觉得这个就可以了，啊至于这个，具体的后续的这个结果怎么样，因为也没有办法是预判，还是要等教师节来临的时候，咱们再看。"
+		intervals [179]:
+			xmin = 2052.92
+			xmax = 2060.61
+			text = "然后呢，呃最后呢，就是心意肯定是要带到的对吧，马上教师节了，行。"
+		intervals [180]:
+			xmin = 2061.65
+			xmax = 2064.25
+			text = "那就先这样，嗯，好，嗯。"
+		intervals [181]:
+			xmin = 2067.44
+			xmax = 2067.7
+			text = "嗯。"
+	item [4]:
+		class = "IntervalTier"
+		name = "N_SPK8004"
+		xmin = 0
+		xmax = 2067.7090000000003
+		intervals: size = 222
+		intervals [1]:
+			xmin = 26.31
+			xmax = 26.6
+			text = "嗯。"
+		intervals [2]:
+			xmin = 32.12
+			xmax = 32.47
+			text = "嗯。"
+		intervals [3]:
+			xmin = 36.75
+			xmax = 39.67
+			text = "我觉得这个来说呢，可能是。"
+		intervals [4]:
+			xmin = 40.74
+			xmax = 54.95
+			text = "双份儿表示，家长去送一份儿，可能孩子可能自己画了个画儿，也给送给老师，我觉得这样是不是好一些？还是说家长代表了孩子，代表了家长单独送给老师。"
+		intervals [5]:
+			xmin = 59.61
+			xmax = 59.9
+			text = "嗯。"
+		intervals [6]:
+			xmin = 60.83
+			xmax = 65.39
+			text = "画了一个画儿，然后让家长买一个比较精美的框儿给裱起来。"
+		intervals [7]:
+			xmin = 72.84
+			xmax = 73.13
+			text = "嗯。"
+		intervals [8]:
+			xmin = 81.19
+			xmax = 81.64
+			text = "嗯。"
+		intervals [9]:
+			xmin = 90.46
+			xmax = 90.94
+			text = "嗯。"
+		intervals [10]:
+			xmin = 97.88
+			xmax = 98.22
+			text = "嗯。"
+		intervals [11]:
+			xmin = 108.09
+			xmax = 108.5
+			text = "嗯。"
+		intervals [12]:
+			xmin = 109.83
+			xmax = 110.17
+			text = "对。"
+		intervals [13]:
+			xmin = 120.1
+			xmax = 120.47
+			text = "嗯。"
+		intervals [14]:
+			xmin = 141.53
+			xmax = 149.16
+			text = "这个肯定有一平衡点，你比如说一二年级的孩子他不懂表达，口齿不清，嗯思维肯定还没有。"
+		intervals [15]:
+			xmin = 150.25
+			xmax = 156.96
+			text = "逐渐的完善，那么肯定这个年级的孩子，他肯定家长代劳的会多一些。"
+		intervals [16]:
+			xmin = 157.75
+			xmax = 162.37
+			text = "那至于四五六的，快小升初的那个年级要拔高儿的那个年级。"
+		intervals [17]:
+			xmin = 162.37
+			xmax = 175.38
+			text = "他们的表达能力要相对于一二三年级要强很多，那么这个阶段让孩子去，多一些家长少一些，达到这种天平互补，平衡的这种效果。"
+		intervals [18]:
+			xmin = 191.58
+			xmax = 192.02
+			text = "嗯。"
+		intervals [19]:
+			xmin = 196.36
+			xmax = 197.83
+			text = "嗯，有什么需求？"
+		intervals [20]:
+			xmin = 200.5
+			xmax = 200.83
+			text = "嗯。"
+		intervals [21]:
+			xmin = 205.88
+			xmax = 207.05
+			text = "嗯，对。"
+		intervals [22]:
+			xmin = 208.53
+			xmax = 220.74
+			text = "对，这个征求孩子意见，然后做一个平衡，啊，你比如说送个奖奖品啊，比如说这老师天天批改作业，送给一个这个这个这个那叫。"
+		intervals [23]:
+			xmin = 221.6
+			xmax = 222.9
+			text = "呃，护眼灯。"
+		intervals [24]:
+			xmin = 223.24
+			xmax = 237.24
+			text = "啊，现在这这几年比较流行，护眼灯，啊然后呢，这个来说呢，也是非常的关心老师啊，然后在这个教师节也是非常恰如其分啊，啊然后也不会让老师有一些不适。"
+		intervals [25]:
+			xmin = 260.08
+			xmax = 260.53
+			text = "嗯。"
+		intervals [26]:
+			xmin = 273.28
+			xmax = 273.78
+			text = "对。"
+		intervals [27]:
+			xmin = 279.48
+			xmax = 284.9
+			text = "因为因为咱们现在关系到一个什么呀，因为有的时候你家长送过去。"
+		intervals [28]:
+			xmin = 285.72
+			xmax = 294.1
+			text = "那老师很尴尬，哎，很尴尬，然后呢，你送的这个这个这个这个产品有的时候，可能家长心细一点儿，他会做一个精美的包装。"
+		intervals [29]:
+			xmin = 294.42
+			xmax = 296.09
+			text = "但是老师他不会这么想。"
+		intervals [30]:
+			xmin = 296.86
+			xmax = 301.66
+			text = "他虽然是你捆绑在教师节上，但是呢我觉得。"
+		intervals [31]:
+			xmin = 302.8
+			xmax = 309.99
+			text = "这个来说呢，这个送送到哪儿，呃谁来收，这也是一个很大的点。"
+		intervals [32]:
+			xmin = 312.03
+			xmax = 314.04
+			text = "什么时候送？嗯。"
+		intervals [33]:
+			xmin = 331.56
+			xmax = 331.79
+			text = "对。"
+		intervals [34]:
+			xmin = 334.66
+			xmax = 334.99
+			text = "嗯。"
+		intervals [35]:
+			xmin = 342.82
+			xmax = 355.1
+			text = "而且吧，这个这个矛盾点儿就在这儿，这个如果要是说在教师节前后送吧，不符合这个这个当天教师节的这个这个气氛。"
+		intervals [36]:
+			xmin = 355.5
+			xmax = 363.62
+			text = "然后这个，但是呢你像学生一个班有二三十个，你同时一天送那太太扎眼了。"
+		intervals [37]:
+			xmin = 366.0
+			xmax = 366.76
+			text = "还不一定收。"
+		intervals [38]:
+			xmin = 374.24
+			xmax = 387.46
+			text = "呃，我有一提议呀，我觉得这个同学A同学送一个，B同学送一个，这甭有不不包括家长，这就得好几十份儿，我觉得不如让学生整体总体做一个哎。"
+		intervals [39]:
+			xmin = 387.98
+			xmax = 390.91
+			text = "啊，奇思妙想的一个送。"
+		intervals [40]:
+			xmin = 393.31
+			xmax = 404.86
+			text = "这样的话呢？这个心意是代表所有班的学生，那么老师一是不会觉得尴尬，二他会觉得我是实至名归啊，嗯。"
+		intervals [41]:
+			xmin = 414.25
+			xmax = 414.75
+			text = "嗯。"
+		intervals [42]:
+			xmin = 418.92
+			xmax = 420.0
+			text = "很尴尬的位置。"
+		intervals [43]:
+			xmin = 424.64
+			xmax = 435.89
+			text = "而且还有一个，而且还有一个A家庭比如说条件好，他送的高一点儿，B家庭条件不好，他送的低一点儿，那有的老师他会有比较，那他不统一。"
+		intervals [44]:
+			xmin = 436.65
+			xmax = 437.94
+			text = "它代表不统一的。"
+		intervals [45]:
+			xmin = 441.41
+			xmax = 453.1
+			text = "而且在有一个学生之间啊，他们能聚因为他们在一个班，家长这边儿的话就可能你的家长和我家长都不认识，那咱们这边儿的话，可能家长可能就很分散。"
+		intervals [46]:
+			xmin = 465.18
+			xmax = 479.04
+			text = "那，现在这个学生跟以前的学生可不一样，现在的那个学生就是，我们家邻居那个，唉你去过新加坡吗？啊我去过，他的话语当中啊，就有一种。"
+		intervals [47]:
+			xmin = 479.85
+			xmax = 491.37
+			text = "这种自信，啊，然后这种的感觉，那有可能，他也可能，比如说我送家长家这个送老师什么样的礼品，他可能。"
+		intervals [48]:
+			xmin = 491.96
+			xmax = 505.45
+			text = "你架不住家长他在后边儿去跟自己的孩子，去去说，啊，去去去灌述，所以的话，这个方面来说，如果要是学生散着送，你送一个我送一个。"
+		intervals [49]:
+			xmin = 506.36
+			xmax = 509.0
+			text = "这样的话会会不会不好？这个效果。"
+		intervals [50]:
+			xmin = 549.65
+			xmax = 550.09
+			text = "嗯。"
+		intervals [51]:
+			xmin = 566.87
+			xmax = 567.35
+			text = "嗯。"
+		intervals [52]:
+			xmin = 568.9
+			xmax = 569.68
+			text = "怎么送过去？"
+		intervals [53]:
+			xmin = 582.31
+			xmax = 588.33
+			text = "而且吧，在学校送送这个礼品，这个很很很。"
+		intervals [54]:
+			xmin = 589.04
+			xmax = 596.19
+			text = "很不恰当，因为学校是一个教学的地方，你特意的去送礼物，啊不管是说他是。"
+		intervals [55]:
+			xmin = 596.6
+			xmax = 601.93
+			text = "护眼灯啊，还是说对老师有一些帮助的礼物，那都是不太好的氛围。"
+		intervals [56]:
+			xmin = 602.8
+			xmax = 606.32
+			text = "因为你你你你你在学校送礼物，这是什么意思？"
+		intervals [57]:
+			xmin = 612.42
+			xmax = 612.76
+			text = "嗯。"
+		intervals [58]:
+			xmin = 615.88
+			xmax = 618.0
+			text = "我觉得来说呢，这个。"
+		intervals [59]:
+			xmin = 619.81
+			xmax = 620.61
+			text = "哎。"
+		intervals [60]:
+			xmin = 621.37
+			xmax = 623.37
+			text = "现在的话有老师会家访。"
+		intervals [61]:
+			xmin = 624.3
+			xmax = 626.19
+			text = "或者等我列出几个选择啊。"
+		intervals [62]:
+			xmin = 627.33
+			xmax = 641.19
+			text = "或者呢，准备的那些礼品呢比较小，袖珍的，然后比如说开家长会，啊或者跟老师有单独接触的机会，啊这样的话，我觉得这种情几几种情况都是可以选择的。"
+		intervals [63]:
+			xmin = 641.8
+			xmax = 645.09
+			text = "咱们可以选择选择哪一种最适合。"
+		intervals [64]:
+			xmin = 651.2
+			xmax = 651.62
+			text = "嗯。"
+		intervals [65]:
+			xmin = 657.9
+			xmax = 669.71
+			text = "嗯，因为，因为现在有一个问题就是，如果要是说孩子去交给老师，那么一个班二十多个三十多个学生，那都同自己拿自己都交过去。"
+		intervals [66]:
+			xmin = 670.07
+			xmax = 674.43
+			text = "那这个这个环节让校长看见这个是非常恶劣的。"
+		intervals [67]:
+			xmin = 706.97
+			xmax = 708.82
+			text = "比如说送到老师的家里。"
+		intervals [68]:
+			xmin = 711.75
+			xmax = 712.22
+			text = "嗯。"
+		intervals [69]:
+			xmin = 717.27
+			xmax = 730.28
+			text = "嗯，咱们现在的话一是送到哪儿？什么方式送？啊然后谁去送？啊谁接收？这这几点可以划分的更细一点儿，但是咱们可以大几块。"
+		intervals [70]:
+			xmin = 732.23
+			xmax = 732.5
+			text = "嗯。"
+		intervals [71]:
+			xmin = 737.37
+			xmax = 737.85
+			text = "嗯。"
+		intervals [72]:
+			xmin = 738.7
+			xmax = 739.04
+			text = "嗯。"
+		intervals [73]:
+			xmin = 746.81
+			xmax = 747.21
+			text = "嗯。"
+		intervals [74]:
+			xmin = 749.1
+			xmax = 749.66
+			text = "嗯。"
+		intervals [75]:
+			xmin = 758.05
+			xmax = 758.82
+			text = "嗯。"
+		intervals [76]:
+			xmin = 780.69
+			xmax = 781.16
+			text = "嗯。"
+		intervals [77]:
+			xmin = 781.83
+			xmax = 782.43
+			text = "代收。"
+		intervals [78]:
+			xmin = 788.73
+			xmax = 789.33
+			text = "对。"
+		intervals [79]:
+			xmin = 793.97
+			xmax = 806.75
+			text = "哎，对这个问题现在又滋生一个，你到底要让他知道不知道是你送的？啊，你要不要留名？啊，因为有的家长你送完了以后我不留名，有的家长不愿意。"
+		intervals [80]:
+			xmin = 821.82
+			xmax = 822.34
+			text = "那。"
+		intervals [81]:
+			xmin = 836.74
+			xmax = 836.99
+			text = "嗯。"
+		intervals [82]:
+			xmin = 840.3
+			xmax = 849.72
+			text = "这个我我觉得送礼物来说呢，这个为什么要送？呃就是因为赶在教师节，我觉得这个，呃。"
+		intervals [83]:
+			xmin = 850.73
+			xmax = 852.26
+			text = "那个有句话怎么说来着？"
+		intervals [84]:
+			xmin = 853.18
+			xmax = 866.4
+			text = "呃，礼多人不怪吧，而且在教师节这么一个特殊的环节，那把自己的心意跟老师传达了，我觉得应该不会拒绝，啊，他可能会尴尬在学校收。"
+		intervals [85]:
+			xmin = 866.72
+			xmax = 872.01
+			text = "但是有可能会跟咱们说地址，我觉得这个来说应该不是一个很大的难题。"
+		intervals [86]:
+			xmin = 878.4
+			xmax = 878.73
+			text = "对。"
+		intervals [87]:
+			xmin = 881.1
+			xmax = 889.37
+			text = "送到家以后，还避免了在这个教师办公室别的老师会有一些，心里挫败感。"
+		intervals [88]:
+			xmin = 892.18
+			xmax = 894.3
+			text = "又可以让老师们一视同仁。"
+		intervals [89]:
+			xmin = 900.16
+			xmax = 900.69
+			text = "对。"
+		intervals [90]:
+			xmin = 907.57
+			xmax = 908.29
+			text = "对。"
+		intervals [91]:
+			xmin = 910.75
+			xmax = 911.5
+			text = "嗯嗯。"
+		intervals [92]:
+			xmin = 919.69
+			xmax = 920.37
+			text = "嗯。"
+		intervals [93]:
+			xmin = 924.71
+			xmax = 925.26
+			text = "嗯。"
+		intervals [94]:
+			xmin = 952.45
+			xmax = 953.11
+			text = "嗯。"
+		intervals [95]:
+			xmin = 954.34
+			xmax = 954.64
+			text = "对。"
+		intervals [96]:
+			xmin = 959.67
+			xmax = 960.39
+			text = "对。"
+		intervals [97]:
+			xmin = 961.52
+			xmax = 961.93
+			text = "对。"
+		intervals [98]:
+			xmin = 963.21
+			xmax = 963.56
+			text = "嗯。"
+		intervals [99]:
+			xmin = 964.3
+			xmax = 964.63
+			text = "嗯。"
+		intervals [100]:
+			xmin = 966.26
+			xmax = 966.62
+			text = "对。"
+		intervals [101]:
+			xmin = 974.01
+			xmax = 974.27
+			text = "对。"
+		intervals [102]:
+			xmin = 978.97
+			xmax = 979.54
+			text = "嗯。"
+		intervals [103]:
+			xmin = 986.16
+			xmax = 986.5
+			text = "嗯。"
+		intervals [104]:
+			xmin = 987.57
+			xmax = 988.13
+			text = "嗯。"
+		intervals [105]:
+			xmin = 1000.01
+			xmax = 1000.56
+			text = "对。"
+		intervals [106]:
+			xmin = 1004.06
+			xmax = 1004.66
+			text = "嗯。"
+		intervals [107]:
+			xmin = 1017.79
+			xmax = 1018.28
+			text = "嗯。"
+		intervals [108]:
+			xmin = 1023.06
+			xmax = 1023.47
+			text = "嗯。"
+		intervals [109]:
+			xmin = 1030.34
+			xmax = 1031.43
+			text = "对，当天。"
+		intervals [110]:
+			xmin = 1033.92
+			xmax = 1034.41
+			text = "嗯。"
+		intervals [111]:
+			xmin = 1037.97
+			xmax = 1038.33
+			text = "对。"
+		intervals [112]:
+			xmin = 1042.34
+			xmax = 1042.62
+			text = "嗯。"
+		intervals [113]:
+			xmin = 1045.2
+			xmax = 1048.48
+			text = "对对对，时间就可以往前错，可以往后错，还有伸缩性。"
+		intervals [114]:
+			xmin = 1058.76
+			xmax = 1059.12
+			text = "对。"
+		intervals [115]:
+			xmin = 1062.64
+			xmax = 1062.9
+			text = "嗯。"
+		intervals [116]:
+			xmin = 1067.37
+			xmax = 1067.98
+			text = "嗯。"
+		intervals [117]:
+			xmin = 1076.78
+			xmax = 1087.0
+			text = "我觉得老师基本上来说这种，比较有有有有有有受人尊重的这种职业，他基本来说呢，是。"
+		intervals [118]:
+			xmin = 1088.05
+			xmax = 1095.55
+			text = "有的时候你在教师节这个特别特定的节日，你送他什么他都会有一些。"
+		intervals [119]:
+			xmin = 1097.8
+			xmax = 1110.6
+			text = "呃，这个怎么说呢？可能她不想让人知道太多，到教师节，我收了很多礼品，虽然说都是一些，呃，有有有碍于帮助的这种礼品。"
+		intervals [120]:
+			xmin = 1111.03
+			xmax = 1115.89
+			text = "所以我觉得是不是要考虑到教师的这种感受，啊能尽量的。"
+		intervals [121]:
+			xmin = 1116.81
+			xmax = 1119.03
+			text = "不见光，哎尽量的。"
+		intervals [122]:
+			xmin = 1119.83
+			xmax = 1122.67
+			text = "让她舒服，哎对，让他舒服。"
+		intervals [123]:
+			xmin = 1125.94
+			xmax = 1126.57
+			text = "啊。"
+		intervals [124]:
+			xmin = 1128.34
+			xmax = 1130.75
+			text = "能接受，又不会让。"
+		intervals [125]:
+			xmin = 1132.51
+			xmax = 1144.14
+			text = "因为在这个全班三十名二十名同学里边肯定有的家长心思不缜密，他不送，可能家长可能是老出差的工作，他根本想不到。"
+		intervals [126]:
+			xmin = 1144.67
+			xmax = 1148.8
+			text = "这里边儿的话有的送有的不送，那就得把这些东西压到最低。"
+		intervals [127]:
+			xmin = 1157.52
+			xmax = 1157.86
+			text = "对。"
+		intervals [128]:
+			xmin = 1164.74
+			xmax = 1165.25
+			text = "嗯。"
+		intervals [129]:
+			xmin = 1184.69
+			xmax = 1185.87
+			text = "对，嗯。"
+		intervals [130]:
+			xmin = 1187.28
+			xmax = 1187.67
+			text = "嗯。"
+		intervals [131]:
+			xmin = 1199.73
+			xmax = 1200.53
+			text = "对。"
+		intervals [132]:
+			xmin = 1201.97
+			xmax = 1202.3
+			text = "嗯。"
+		intervals [133]:
+			xmin = 1205.81
+			xmax = 1209.81
+			text = "对别的老师背后说三道四的对他影响也不好。"
+		intervals [134]:
+			xmin = 1228.27
+			xmax = 1234.27
+			text = "所以呢，我觉得，学校送不太合适，咱们就大方向往家里送。"
+		intervals [135]:
+			xmin = 1235.35
+			xmax = 1249.14
+			text = "家里送呢，这样的话又避免了这个三十个二十个学生一个班的有送有不送的这种情况，呃也表明了自己送的心意，因为就像结婚份子似的，那比如说他谁结婚。"
+		intervals [136]:
+			xmin = 1249.45
+			xmax = 1264.05
+			text = "那比如说都是朋友，那这五个朋友一起送，有出两百份子的，有出五百份子的，那五百份子那个人，他就不平衡，所以说就各送各的，然后呢，又避免了去学校，啊，然后。"
+		intervals [137]:
+			xmin = 1264.64
+			xmax = 1275.19
+			text = "比如说对老师的打扰啊，咱们最好能把地址要到，自己送到家里，这样的话也避免了学校别的老师，去说三道四。"
+		intervals [138]:
+			xmin = 1283.4
+			xmax = 1283.63
+			text = "对。"
+		intervals [139]:
+			xmin = 1289.54
+			xmax = 1289.87
+			text = "嗯。"
+		intervals [140]:
+			xmin = 1290.61
+			xmax = 1290.99
+			text = "对。"
+		intervals [141]:
+			xmin = 1294.2
+			xmax = 1294.79
+			text = "嗯。"
+		intervals [142]:
+			xmin = 1316.53
+			xmax = 1317.0
+			text = "嗯。"
+		intervals [143]:
+			xmin = 1318.45
+			xmax = 1318.91
+			text = "对。"
+		intervals [144]:
+			xmin = 1319.67
+			xmax = 1320.08
+			text = "对。"
+		intervals [145]:
+			xmin = 1320.68
+			xmax = 1322.16
+			text = "嗯，都是公众场合。"
+		intervals [146]:
+			xmin = 1325.81
+			xmax = 1326.31
+			text = "没错。"
+		intervals [147]:
+			xmin = 1327.75
+			xmax = 1331.52
+			text = "咱们也要主主一观形态的去保护老师嘛。"
+		intervals [148]:
+			xmin = 1335.23
+			xmax = 1335.55
+			text = "对。"
+		intervals [149]:
+			xmin = 1339.23
+			xmax = 1343.97
+			text = "对，别因为教师节人之后这个影响教学了。"
+		intervals [150]:
+			xmin = 1344.76
+			xmax = 1345.96
+			text = "嗯这个到时候不好。"
+		intervals [151]:
+			xmin = 1354.88
+			xmax = 1355.19
+			text = "嗯。"
+		intervals [152]:
+			xmin = 1360.29
+			xmax = 1360.86
+			text = "嗯。"
+		intervals [153]:
+			xmin = 1361.65
+			xmax = 1362.11
+			text = "嗯。"
+		intervals [154]:
+			xmin = 1386.79
+			xmax = 1387.23
+			text = "嗯。"
+		intervals [155]:
+			xmin = 1388.67
+			xmax = 1389.19
+			text = "嗯，嗯。"
+		intervals [156]:
+			xmin = 1390.87
+			xmax = 1391.26
+			text = "对。"
+		intervals [157]:
+			xmin = 1399.29
+			xmax = 1399.9
+			text = "嗯。"
+		intervals [158]:
+			xmin = 1426.3
+			xmax = 1426.7
+			text = "嗯。"
+		intervals [159]:
+			xmin = 1460.26
+			xmax = 1461.28
+			text = "嗯。嗯。"
+		intervals [160]:
+			xmin = 1465.37
+			xmax = 1465.94
+			text = "对。"
+		intervals [161]:
+			xmin = 1466.93
+			xmax = 1467.65
+			text = "主要过来。"
+		intervals [162]:
+			xmin = 1470.14
+			xmax = 1470.47
+			text = "嗯。"
+		intervals [163]:
+			xmin = 1481.91
+			xmax = 1482.3
+			text = "嗯。"
+		intervals [164]:
+			xmin = 1484.97
+			xmax = 1498.07
+			text = "这个这个里边儿还有涉及到一个问题，第一个分支呢，就是索要到了地址，第二个分支就是老师不愿意给地址，那不愿意给地址的前提是咱们已经表明了目的。"
+		intervals [165]:
+			xmin = 1498.65
+			xmax = 1510.23
+			text = "借着教师节，哎对您这个一年的感谢，送一些比较实用的礼品，不愿意提供地址那么，呃那那这边的话他，愿不愿意接收礼物？"
+		intervals [166]:
+			xmin = 1510.75
+			xmax = 1518.96
+			text = "如果他要是不愿意提供地址，也不愿意接收礼物，那么第二个这个分支可能就省省下了。"
+		intervals [167]:
+			xmin = 1521.23
+			xmax = 1533.67
+			text = "我觉得来说他要不接受呢，咱们也不能强求，强人所难有的教师他的心里就是觉得我就是像医务人员白衣天使似的，我就是为孩子心甘情愿的去付出的。"
+		intervals [168]:
+			xmin = 1536.23
+			xmax = 1537.69
+			text = "这一份心意，我就是。"
+		intervals [169]:
+			xmin = 1538.57
+			xmax = 1547.13
+			text = "我是不想要，我就不想接受，那你说咱们一他一味的要强顶着，那你说咱们的礼物。"
+		intervals [170]:
+			xmin = 1548.21
+			xmax = 1550.04
+			text = "还是要送吗？"
+		intervals [171]:
+			xmin = 1550.83
+			xmax = 1550.98
+			text = "这。"
+		intervals [172]:
+			xmin = 1561.92
+			xmax = 1564.21
+			text = "那你就得后备，备再备一份儿。"
+		intervals [173]:
+			xmin = 1564.9
+			xmax = 1570.12
+			text = "如果这个第一份礼物不需要，他就是不接收，就是不想提供地址。"
+		intervals [174]:
+			xmin = 1582.07
+			xmax = 1593.74
+			text = "如果假设他所有的礼物我都不接收，就在咱们在这个第二个分支上，呃他依旧索要地址，第二个不给地址，我也不接收礼物，这个时候怎么办？"
+		intervals [175]:
+			xmin = 1607.17
+			xmax = 1613.88
+			text = "我觉得如果呢，他要是一定不接收，咱们只要表达了心意，我觉得就够了。"
+		intervals [176]:
+			xmin = 1619.19
+			xmax = 1633.9
+			text = "对，如果要是说不强人所难的他一定不接收，一定不提供地址，那咱们就把心意传达就够了，那么就只有把第二个分支砍掉，就只剩第一个分支，他索索取了咱们索取了地址。"
+		intervals [177]:
+			xmin = 1634.27
+			xmax = 1637.81
+			text = "那么就直接给他弄家里，这个事儿就搞定了。"
+		intervals [178]:
+			xmin = 1643.39
+			xmax = 1644.3
+			text = "唉，对对对。"
+		intervals [179]:
+			xmin = 1661.92
+			xmax = 1662.46
+			text = "嗯。"
+		intervals [180]:
+			xmin = 1665.0
+			xmax = 1665.69
+			text = "那对对对。"
+		intervals [181]:
+			xmin = 1668.61
+			xmax = 1669.1
+			text = "嗯。"
+		intervals [182]:
+			xmin = 1670.24
+			xmax = 1670.61
+			text = "对。"
+		intervals [183]:
+			xmin = 1673.98
+			xmax = 1674.6
+			text = "对对对。"
+		intervals [184]:
+			xmin = 1679.48
+			xmax = 1679.85
+			text = "嗯。"
+		intervals [185]:
+			xmin = 1685.12
+			xmax = 1685.83
+			text = "嗯。"
+		intervals [186]:
+			xmin = 1691.65
+			xmax = 1691.98
+			text = "嗯。"
+		intervals [187]:
+			xmin = 1693.15
+			xmax = 1696.95
+			text = "对，是送个什么样的产品？这个到时候咱们可以再再。"
+		intervals [188]:
+			xmin = 1698.29
+			xmax = 1698.61
+			text = "嗯。"
+		intervals [189]:
+			xmin = 1700.53
+			xmax = 1700.92
+			text = "嗯。"
+		intervals [190]:
+			xmin = 1702.63
+			xmax = 1703.09
+			text = "嗯。"
+		intervals [191]:
+			xmin = 1711.64
+			xmax = 1712.22
+			text = "嗯。"
+		intervals [192]:
+			xmin = 1713.05
+			xmax = 1713.72
+			text = "也不合适。"
+		intervals [193]:
+			xmin = 1714.8
+			xmax = 1715.03
+			text = "嗯。"
+		intervals [194]:
+			xmin = 1730.88
+			xmax = 1742.92
+			text = "就是咱非常是尊重老师了，老师不收那就不收了，老师要是愿意提供地址，那么咱们也是非常高兴的，咱们就为了大家都比较高兴，就可以了。"
+		intervals [195]:
+			xmin = 1755.05
+			xmax = 1761.57
+			text = "嗯，最重要的是，不管他接收与不接收，咱们把自己对他的这个心意表明了。"
+		intervals [196]:
+			xmin = 1762.43
+			xmax = 1763.66
+			text = "我觉得这是最重要的。"
+		intervals [197]:
+			xmin = 1769.94
+			xmax = 1771.65
+			text = "礼轻情意重嘛。"
+		intervals [198]:
+			xmin = 1779.85
+			xmax = 1780.09
+			text = "嗯。"
+		intervals [199]:
+			xmin = 1781.15
+			xmax = 1785.66
+			text = "对他就比，家长比较认可他的付出，嗯。"
+		intervals [200]:
+			xmin = 1798.92
+			xmax = 1799.47
+			text = "嗯。"
+		intervals [201]:
+			xmin = 1809.14
+			xmax = 1810.05
+			text = "对认可。"
+		intervals [202]:
+			xmin = 1815.7
+			xmax = 1816.72
+			text = "嗯，对。"
+		intervals [203]:
+			xmin = 1850.78
+			xmax = 1851.21
+			text = "嗯。"
+		intervals [204]:
+			xmin = 1891.88
+			xmax = 1902.23
+			text = "嗯，我觉得就是感恩教师节，就是为了在这一天去做一个感恩，啊因为怎么说呢？可能。"
+		intervals [205]:
+			xmin = 1903.1
+			xmax = 1904.35
+			text = "平时的话。"
+		intervals [206]:
+			xmin = 1905.84
+			xmax = 1907.97
+			text = "意义不大吧？意义不大。"
+		intervals [207]:
+			xmin = 1912.48
+			xmax = 1920.03
+			text = "不收呢，咱们表明心意就这就可以了，最重要的是因为你送他实用的礼物其实也价值不贵。"
+		intervals [208]:
+			xmin = 1921.24
+			xmax = 1924.99
+			text = "他接收不接收与否，那就不碍咱们的事情了。"
+		intervals [209]:
+			xmin = 1925.91
+			xmax = 1928.47
+			text = "最重要是咱们把心意表明。"
+		intervals [210]:
+			xmin = 1943.17
+			xmax = 1943.43
+			text = "嗯。"
+		intervals [211]:
+			xmin = 1944.53
+			xmax = 1944.86
+			text = "嗯。"
+		intervals [212]:
+			xmin = 1948.45
+			xmax = 1949.1
+			text = "嗯，对。"
+		intervals [213]:
+			xmin = 1950.08
+			xmax = 1953.17
+			text = "反正送不送呢，是我们的事，假如说咱们不送。"
+		intervals [214]:
+			xmin = 1954.39
+			xmax = 1954.68
+			text = "嗯。"
+		intervals [215]:
+			xmin = 1956.68
+			xmax = 1956.9
+			text = "嗯。"
+		intervals [216]:
+			xmin = 1958.81
+			xmax = 1967.28
+			text = "嗯，对咱们如果要不送，到时候老师有会有挑理的，但是咱们送了以后他不收呢？是他的问题，嗯。"
+		intervals [217]:
+			xmin = 1971.17
+			xmax = 1971.36
+			text = "嗯。"
+		intervals [218]:
+			xmin = 1975.89
+			xmax = 1976.18
+			text = "嗯。"
+		intervals [219]:
+			xmin = 1977.77
+			xmax = 1978.04
+			text = "嗯。"
+		intervals [220]:
+			xmin = 2023.18
+			xmax = 2023.47
+			text = "嗯。"
+		intervals [221]:
+			xmin = 2062.48
+			xmax = 2062.8
+			text = "嗯。"
+		intervals [222]:
+			xmin = 2063.69
+			xmax = 2063.91
+			text = "嗯。"

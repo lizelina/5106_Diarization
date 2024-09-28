@@ -7,11 +7,17 @@ from pyannote.metrics import diarization
 from pyannote.core import Segment, Annotation
 import re
 import jiwer
-from src.audio_utils import list_files
 from hanziconv import HanziConv
 
 
+def list_files(directory):
+    """列出指定目录下的所有文件"""
+    return [os.path.join(directory, file) for file in os.listdir(directory)
+            if os.path.isfile(os.path.join(directory, file))]
+
+
 def save_textGrid_to_df(filename):
+    """将TextGrid文件转为csv文件"""
     # 读取 TextGrid 文件
     tg = TextGrid.fromFile(filename)
 
@@ -52,6 +58,7 @@ def save_textGrid_to_df(filename):
 
 
 def construct_ref(filename):
+    """从CSV文件构建参考Annotation对象，用于计算说话人识别 DER"""
     df = pd.read_csv(filename)
     ref_dict = df.to_dict(orient='records')
     ref = Annotation()
@@ -61,7 +68,8 @@ def construct_ref(filename):
     return ref
 
 
-def evaluate(ref, hyp):
+def evaluate_der(ref, hyp):
+    """评估参考和假设之间的Diarization Error Rate (DER) 及其他错误率指标"""
     metric = diarization.DiarizationErrorRate()
     der = metric(ref, hyp)
     metric = diarization.JaccardErrorRate()
@@ -80,6 +88,7 @@ def evaluate(ref, hyp):
 
 
 def process_text_with_regex(text):
+    """处理文本字符串，去除标点符号，将其转换为大写，并去除所有空格"""
     # 使用正则表达式替换标点符号为空格
     text_no_punctuation = re.sub(r'[^\w\s]', '', text)
 
@@ -92,41 +101,33 @@ def process_text_with_regex(text):
     return text_no_spaces
 
 
-# 示例文本
-# text = "这不是快到了教师节了吗，那个看看都给孩子就是老师送点什么呀，给他们班主任嗯。"
-#
-# # 调用方法
-# processed_text = process_text(text)
-#
-# # 输出结果
-# print(processed_text)
-
-
 def construct_transcripts(fname):
+    """通过读取CSV文件构建简化的转录文本"""
     df = pd.read_csv(fname)
     transcripts = ''.join(df['text'])
+    # 去除标点符号和空格
     processed_text = process_text_with_regex(transcripts)
 
     # 繁体字转简体字
     simpilified = HanziConv.toSimplified(processed_text)
 
     return simpilified
-    # return processed_text
+
+
 def construct_hyps(path):
+    """读取transcripts文件夹下所有转录结果，合并成转录文本"""
     files = list_files(path)
     transcripts = []
     for file in files:
         text = construct_transcripts(file)
         transcripts.append(text)
     return ''.join(transcripts)
-    # text = construct_transcripts(path)
+
 
 def evaluate_cer(ref, hyp):
+    """评估参考文本和假设文本之间的字符错误率（CER）"""
     cer = jiwer.cer(ref, hyp)
     print(f"Character Error Rate: {cer}")
-
-
-
 
 
 # save_textGrid_to_df('../data/evaluation_reference/R8009_M8020.TextGrid')
@@ -135,99 +136,27 @@ def evaluate_cer(ref, hyp):
 # hyp2 = construct_ref("../data/evaluation_reference/R8009_M8020_MS810@.csv")
 
 
+if __name__ == '__main__':
 
+    # 示例代码
+    # 1. 将Alimeeting benchmark提供的TextGrid文件转成csv "R8003_M8001.csv"
+    save_textGrid_to_df("../data/evaluation_reference/sample/R8003_M8001.TextGrid")
 
+    # 2. 计算说话人识别的错误率 Diarization Error Rate (DER)
+    # 获取reference说话人识别的结果
+    ref = construct_ref("../data/evaluation_reference/sample/R8003_M8001.csv")
+    # 获取pipeline说话人识别的结果 - hyp
+    hyp = construct_ref("../data/evaluation_reference/sample/evaluated_diarization_2024-09-15_203801.csv")
+    evaluate_der(ref, hyp)
 
-##### R8003
-# print("##### R8003  #####")
-# ref = construct_ref("../data/evaluation_reference/R8003_M8001.csv")
-# hyp1 = construct_ref("../data/evaluation_reference/R8003_M8001_MS801.csv")
-# hyp2 = construct_ref("../data/evaluation_reference/evaluated_diarization_2024-09-15_203801.csv")
-# # # with vad
-# # print(ref)
-# hyp3 = construct_ref("../data/evaluation_reference/evaluated_diarization_VAD2024-09-12_201344.csv")
-# evaluate(ref, hyp1)
-# evaluate(ref, hyp2)
-# evaluate(ref, hyp3)
+    # 3. 计算转录文本的错误率 Character Error Rate (CER)
+    # 获取reference 转录的内容
+    text = construct_transcripts("../data/evaluation_reference/sample/R8003_M8001.csv")
+    print(text)
+    # hyp_text = construct_hyps('../data/transcripts/')
+    # 获取pipeline转录的文字 从../transcripts/路径获取
+    hyp_text = construct_hyps("../data/evaluation_reference/sample/transcripts/")
+    print(hyp_text)
+    evaluate_cer(text, hyp_text)
 
-text = construct_transcripts("../data/evaluation_reference/R8003_M8001.csv")
-# #一次性转录
-# print(text)
-trans1 = construct_transcripts("../data/evaluation_reference/transcripts_R8003_M8001.csv")
-transcripts = construct_hyps('../data/R8003/transcripts/')
-transcripts2 = construct_hyps('../data/VAD_R8003/transcripts/')
-print(text)
-print(trans1)
-print(transcripts)
-print(transcripts2)
-# Character Error Rate: 0.3876410004904365
-# Character Error Rate: 0.42275625306522807
-# Character Error Rate: 0.3019127023050515
-evaluate_cer(text, trans1)
-evaluate_cer(text, transcripts)
-evaluate_cer(text, transcripts2)
-
-
-#### R8007
-# print("##### R8007  #####")
-# ref = construct_ref("../data/evaluation_reference/R8007_M8011.csv")
-# hyp1 = construct_ref("../data/evaluation_reference/R8007_M8011_MS806.csv")
-# # print(ref)
-# hyp2 = construct_ref("../data/evaluation_reference/evaluated_diarization_2024-09-15_201505.csv")
-# #
-# # # # with vad
-# hyp3 = construct_ref("../data/evaluation_reference/evaluated_diarization_VAD2024-09-13_004853.csv")
-# evaluate(ref, hyp1)
-# evaluate(ref, hyp2)
-# evaluate(ref, hyp3)
-
-text = construct_transcripts("../data/evaluation_reference/R8007_M8011.csv")
-print(text)
-trans1 = construct_transcripts("../data/evaluation_reference/transcripts_R8007_M8011.csv")
-print(trans1)
-transcripts = construct_hyps('../data/R8007/transcripts/')
-print(transcripts)
-transcripts2 = construct_hyps('../data/VAD_R8007/transcripts/')
-print(transcripts2)
-# Character Error Rate: 0.3250820690267057
-# Character Error Rate: 0.3265903646526484
-# Character Error Rate: 0.3262354715641913
-evaluate_cer(text, trans1)
-evaluate_cer(text, transcripts)
-evaluate_cer(text, transcripts2)
-
-#### R8009
-# print("##### R8009  #####")
-# ref = construct_ref("../data/evaluation_reference/R8009_M8020.csv")
-# hyp1 = construct_ref("../data/evaluation_reference/R8009_M8020_MS810@.csv")
-# hyp2 = construct_ref("../data/evaluation_reference/evaluated_diarization_2024-09-15_204502.csv")
-# # # with vad
-# # print(ref)
-# hyp3 = construct_ref("../data/evaluation_reference/evaluated_diarization_VAD2024-09-13_130842.csv")
-# evaluate(ref, hyp1)
-# evaluate(ref, hyp2)
-# evaluate(ref, hyp3)
-
-text = construct_transcripts("../data/evaluation_reference/R8009_M8020.csv")
-print(text)
-trans1 = construct_transcripts("../data/evaluation_reference/transcripts_R8009_M8020.csv")
-print(trans1)
-transcripts = construct_hyps('../data/transcripts/')
-print(transcripts)
-transcripts2 = construct_hyps('../data/VAD_R8009/transcripts/')
-print(transcripts2)
-# Character Error Rate: 0.17073170731707318
-# Character Error Rate: 0.16862101313320826
-# Character Error Rate: 0.1772983114446529
-evaluate_cer(text, trans1)
-evaluate_cer(text, transcripts)
-evaluate_cer(text, transcripts2)
-
-
-# trans1 = construct_transcripts("../data/evaluation_reference/transcripts_R8007_M8011.csv")
-# transcripts = construct_hyps('../data/R8007/transcripts/')
-#
-#
-# evaluate_cer(text, trans1)
-# evaluate_cer(text, transcripts)
 
